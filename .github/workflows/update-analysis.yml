@@ -20,7 +20,7 @@ jobs:
 
       - run: pip install pandas requests
 
-      - run: python analysis.py
+      - run: python src/analysis.py
 
       - name: Commit updated data
         run: |
