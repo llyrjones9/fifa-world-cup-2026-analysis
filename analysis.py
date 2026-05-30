@@ -45,7 +45,7 @@ markets = [
 # Tack the nre prices onto the existing prices data to extednt he record over time
 prices = pd.DataFrame(markets)
 extended_prices = pd.concat([existing_prices, prices], ignore_index=True)
-extended_prices['date'] = pd.to_datetime(extended_prices['date'])
+extended_prices['date'] = pd.to_datetime(extended_prices['date'], format='ISO8601')
 extended_prices.to_csv('assets/data/prices.csv', index=False)
 
 # Normalise prices by date
@@ -84,6 +84,3 @@ datasets = [
 
 with open('assets/data/chart_data.json', 'w') as f:
     json.dump({"labels": dates, "datasets": datasets}, f)
-
-
-
