@@ -54,12 +54,13 @@ fetch('assets/data/data.json')
                     onClick: (e, legendItem, legend) => {
                         const chart = legend.chart;
                         const name = legendItem.text;
-                        chart.data.datasets.forEach((ds, i) => {
-                            if (ds.label === name || ds.label === '_' + name) {
-                                const meta = chart.getDatasetMeta(i);
-                                meta.hidden = !meta.hidden;
-                            }
-                        });
+                        const solidIdx = chart.data.datasets.findIndex(d => d.label === name);
+                        const solidMeta = chart.getDatasetMeta(solidIdx);
+                        solidMeta.hidden = !solidMeta.hidden;
+                        const champIdx = chart.data.datasets.findIndex(d => d.label === '_' + name);
+                        if (champIdx !== -1) {
+                            chart.getDatasetMeta(champIdx).hidden = solidMeta.hidden || champHidden;
+                        }
                         chart.update();
                     }
                 },
@@ -96,7 +97,10 @@ fetch('assets/data/data.json')
         champHidden = !champHidden;
         myChart.data.datasets.forEach((ds, i) => {
             if (ds.label.startsWith('_')) {
-                myChart.getDatasetMeta(i).hidden = champHidden;
+                const playerName = ds.label.slice(1);
+                const solidIdx = myChart.data.datasets.findIndex(d => d.label === playerName);
+                const playerHidden = solidIdx !== -1 && myChart.getDatasetMeta(solidIdx).hidden;
+                myChart.getDatasetMeta(i).hidden = champHidden || playerHidden;
             }
         });
         myChart.update();

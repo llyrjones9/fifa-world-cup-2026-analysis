@@ -33,7 +33,7 @@ event = response.json()
 generated_at = datetime.now().isoformat()  # This is the time we generated these odds
 valid_at = event["updatedAt"]  # This is the time these odds are valid for
 
-# This is he odds for each team
+# This is the odds for each team
 markets = [
     {
         "team": team.get("groupItemTitle"),
