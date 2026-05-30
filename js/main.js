@@ -3,13 +3,12 @@ const COLORS = [
     '#9b59b6', '#1abc9c', '#e67e22', '#2c3e50'
 ];
 
-Promise.all([
-    fetch('assets/data/data.json').then(r => r.json()),
-    fetch('assets/data/chart_data.json').then(r => r.json())
-]).then(([meta, chartData]) => {
-    document.getElementById('subtitle').textContent = meta.subtitle;
+fetch('assets/data/data.json')
+    .then(r => r.json())
+    .then(data => {
+    document.getElementById('subtitle').textContent = data.subtitle;
 
-    const datasets = chartData.datasets.flatMap((ds, i) => {
+    const datasets = data.datasets.flatMap((ds, i) => {
         const color = COLORS[i % COLORS.length];
         return [
             {
@@ -40,7 +39,7 @@ Promise.all([
 
     const myChart = new Chart(document.getElementById('sweepChart'), {
         type: 'line',
-        data: { labels: chartData.labels, datasets },
+        data: { labels: data.labels, datasets },
         options: {
             responsive: true,
             maintainAspectRatio: false,
@@ -103,4 +102,4 @@ Promise.all([
         myChart.update();
         btn.textContent = champHidden ? 'Show Champion Lines' : 'Hide Champion Lines';
     });
-}).catch(err => console.error('Error loading data:', err));
+    }).catch(err => console.error('Error loading data:', err));
