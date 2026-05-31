@@ -1,5 +1,5 @@
 {
-  "subtitle": "Spain and France sit nearly tied at the top of the 2026 World Cup winner market, reflecting their status as the two highest-ranked sides entering the expanded 48-team field. Spain\u2019s recent European Championship success and deep attacking options have kept it marginally ahead in trader consensus, while France\u2019s blend of experience and athleticism maintains parity. England follows closely behind on the strength of consistent qualifying results and squad balance. The narrow gaps among the leading contenders underscore how evenly matched the top European nations remain, with minimal separation in recent head-to-head results, FIFA rankings, and pre-tournament form.",
+  "subtitle": "European powers Spain and France sit atop trader consensus for the 2026 World Cup at nearly identical implied probabilities, reflecting their status as recent continental champions with exceptional squad depth and attacking talent led by players such as Lamine Yamal and Kylian Mbapp\u00e9. England follows closely behind, buoyed by consistent tournament runs but tempered by historical knockout-stage shortfalls. The bunched probabilities among these sides and the next tier, including Portugal, Argentina, and Brazil, stem from balanced group draws established last December, strong recent qualifying results, and fluid injury updates\u2014most notably Yamal\u2019s hamstring recovery timeline\u2014that keep multiple paths open through the expanded 48-team knockout format. This setup underscores how minor shifts in form or roster availability can rapidly recalibrate market positioning ahead of the June kickoff.",
   "labels": [
     "2026-05-30T16:58:49",
     "2026-05-30T18:04:15",
@@ -14,7 +14,8 @@
     "2026-05-31T15:19:10",
     "2026-05-31T17:10:55",
     "2026-05-31T19:21:56",
-    "2026-05-31T21:03:29"
+    "2026-05-31T21:03:29",
+    "2026-05-31T23:03:38"
   ],
   "datasets": [
     {
@@ -33,7 +34,8 @@
         14.62,
         14.57,
         14.51,
-        14.49
+        14.49,
+        14.27
       ],
       "champion": [
         12.64,
@@ -49,7 +51,8 @@
         12.53,
         12.49,
         12.43,
-        12.42
+        12.42,
+        12.23
       ]
     },
     {
@@ -68,7 +71,8 @@
         28.03,
         28.46,
         28.47,
-        28.44
+        28.44,
+        28.27
       ],
       "champion": [
         23.65,
@@ -84,7 +88,8 @@
         24.02,
         24.4,
         24.4,
-        24.38
+        24.38,
+        24.23
       ]
     },
     {
@@ -103,7 +108,8 @@
         10.33,
         10.35,
         10.4,
-        10.39
+        10.39,
+        11.15
       ],
       "champion": [
         8.78,
@@ -119,7 +125,8 @@
         8.85,
         8.87,
         8.91,
-        8.91
+        8.91,
+        9.55
       ]
     },
     {
@@ -138,7 +145,8 @@
         23.33,
         22.74,
         22.03,
-        22.01
+        22.01,
+        21.88
       ],
       "champion": [
         20.14,
@@ -154,7 +162,8 @@
         20.0,
         19.49,
         18.89,
-        18.87
+        18.87,
+        18.76
       ]
     },
     {
@@ -173,7 +182,8 @@
         16.09,
         16.21,
         16.56,
-        16.68
+        16.68,
+        16.72
       ],
       "champion": [
         13.81,
@@ -189,7 +199,8 @@
         13.79,
         13.89,
         14.19,
-        14.3
+        14.3,
+        14.33
       ]
     },
     {
@@ -208,7 +219,8 @@
         26.42,
         26.69,
         26.96,
-        26.93
+        26.93,
+        26.78
       ],
       "champion": [
         22.83,
@@ -224,7 +236,8 @@
         22.64,
         22.88,
         23.11,
-        23.09
+        23.09,
+        22.95
       ]
     },
     {
@@ -243,6 +256,7 @@
         0.8,
         0.41,
         0.41,
+        0.41,
         0.41
       ],
       "champion": [
@@ -257,6 +271,7 @@
         0.35,
         0.35,
         0.69,
+        0.35,
         0.35,
         0.35,
         0.35
@@ -278,7 +293,8 @@
         20.38,
         20.56,
         20.66,
-        20.64
+        20.64,
+        20.52
       ],
       "champion": [
         17.8,
@@ -294,7 +310,8 @@
         17.47,
         17.63,
         17.71,
-        17.7
+        17.7,
+        17.59
       ]
     }
   ]
