@@ -3,7 +3,7 @@ const COLORS = [
     '#9b59b6', '#1abc9c', '#e67e22', '#2c3e50'
 ];
 
-fetch('assets/data/data.json')
+fetch('assets/data/chart-data.json')
     .then(r => r.json())
     .then(data => {
     document.getElementById('subtitle').textContent = data.subtitle;

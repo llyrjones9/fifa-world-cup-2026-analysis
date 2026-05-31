@@ -102,7 +102,7 @@ datasets = [
     for name, group in values.groupby("name")
 ]
 
-with open("assets/data/data.json", "w") as f:
+with open("assets/data/chart-data.json", "w") as f:
     json.dump(
         {
             "subtitle": event["eventMetadata"]["context_description"],
