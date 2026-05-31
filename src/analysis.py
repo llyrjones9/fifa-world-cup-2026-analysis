@@ -24,7 +24,6 @@ if not os.path.exists(prices_file):
     )
 else:
     existing_prices = pd.read_csv(prices_file)
-existing_prices
 
 # Retrieve odds from Polymarket API
 response = requests.get("https://gamma-api.polymarket.com/events/slug/world-cup-winner")
@@ -81,7 +80,8 @@ subtitles = pd.concat(
         pd.DataFrame(
             [
                 {
-                    "date": valid_at,
+                    "date valid": valid_at,
+                    "date generated": generated_at,
                     "subtitle": event["eventMetadata"]["context_description"],
                 }
             ]
