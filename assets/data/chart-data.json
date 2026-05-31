@@ -1,5 +1,5 @@
 {
-  "subtitle": "Spain and France sit nearly level at the top of the World Cup winner market due to their status as the standout European sides entering the expanded 48-team tournament, with Spain's Euro 2024 triumph and attacking depth under Luis de la Fuente offset by France's proven tournament pedigree and squad rotation options under Didier Deschamps. England trails closely on the back of back-to-back major final appearances and a balanced roster that has shown strong qualifying form. The tight clustering among the leading contenders stems from comparable recent results, deep benches, and favorable group-stage paths that limit early elimination risk for the top nations while leaving room for momentum shifts once knockout play begins in mid-June.",
+  "subtitle": "France, Spain, and England lead the 2026 World Cup winner market in a tight cluster because each enters with elite depth, recent success, and strong preparation form. Spain, the reigning European champions, boasts an exceptional midfield and attacking talent while remaining unbeaten in regulation since Euro 2024. France has shown dominance in recent friendlies, including a win over Brazil, backed by proven World Cup pedigree and versatile options. England offers significant squad strength despite mixed March results. Defending champions Argentina and Portugal add pressure through experience and star power, while Brazil\u2019s attacking potential keeps them competitive. Squad announcements and fitness updates across these sides have reinforced the market\u2019s view of a wide-open field with no clear dominant force.",
   "labels": [
     "2026-05-30T16:58:49",
     "2026-05-30T18:04:15",
@@ -10,7 +10,8 @@
     "2026-05-31T05:21:26",
     "2026-05-31T08:51:26",
     "2026-05-31T11:01:11",
-    "2026-05-31T13:52:01"
+    "2026-05-31T13:52:01",
+    "2026-05-31T15:19:10"
   ],
   "datasets": [
     {
@@ -25,7 +26,8 @@
         14.59,
         14.59,
         14.61,
-        14.59
+        14.59,
+        14.62
       ],
       "champion": [
         12.64,
@@ -37,7 +39,8 @@
         12.51,
         12.51,
         12.52,
-        12.51
+        12.51,
+        12.53
       ]
     },
     {
@@ -52,7 +55,8 @@
         28.24,
         28.24,
         28.27,
-        28.24
+        28.24,
+        28.03
       ],
       "champion": [
         23.65,
@@ -64,7 +68,8 @@
         24.21,
         24.21,
         24.23,
-        24.21
+        24.21,
+        24.02
       ]
     },
     {
@@ -79,7 +84,8 @@
         10.27,
         10.27,
         10.14,
-        10.14
+        10.14,
+        10.33
       ],
       "champion": [
         8.78,
@@ -91,7 +97,8 @@
         8.8,
         8.8,
         8.7,
-        8.69
+        8.69,
+        8.85
       ]
     },
     {
@@ -106,7 +113,8 @@
         23.38,
         23.51,
         23.54,
-        23.51
+        23.51,
+        23.33
       ],
       "champion": [
         20.14,
@@ -118,7 +126,8 @@
         20.04,
         20.15,
         20.17,
-        20.15
+        20.15,
+        20.0
       ]
     },
     {
@@ -133,7 +142,8 @@
         16.22,
         16.08,
         16.1,
-        16.08
+        16.08,
+        16.09
       ],
       "champion": [
         13.81,
@@ -145,7 +155,8 @@
         13.9,
         13.78,
         13.8,
-        13.78
+        13.78,
+        13.79
       ]
     },
     {
@@ -160,7 +171,8 @@
         26.35,
         26.35,
         26.38,
-        26.49
+        26.49,
+        26.42
       ],
       "champion": [
         22.83,
@@ -172,7 +184,8 @@
         22.59,
         22.59,
         22.61,
-        22.7
+        22.7,
+        22.64
       ]
     },
     {
@@ -187,7 +200,8 @@
         0.41,
         0.41,
         0.41,
-        0.41
+        0.41,
+        0.8
       ],
       "champion": [
         0.35,
@@ -199,7 +213,8 @@
         0.35,
         0.35,
         0.35,
-        0.35
+        0.35,
+        0.69
       ]
     },
     {
@@ -214,7 +229,8 @@
         20.54,
         20.54,
         20.56,
-        20.54
+        20.54,
+        20.38
       ],
       "champion": [
         17.8,
@@ -226,7 +242,8 @@
         17.61,
         17.61,
         17.62,
-        17.61
+        17.61,
+        17.47
       ]
     }
   ]
