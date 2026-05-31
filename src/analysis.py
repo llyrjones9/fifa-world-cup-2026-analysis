@@ -110,4 +110,5 @@ with open("assets/data/data.json", "w") as f:
             "datasets": datasets,
         },
         f,
+        indent=2,
     )
