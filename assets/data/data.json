@@ -1,1 +1,199 @@
-{"subtitle": "France and Spain lead the 2026 World Cup winner market at nearly identical implied probabilities due to their exceptional squad depth and recent major-tournament success, with Spain riding post-Euro 2024 momentum and France benefiting from unmatched rotation options around Kylian Mbapp\u00e9. England sits just behind on the strength of its attacking talent pool under Thomas Tuchel, while Portugal, Brazil, and Argentina remain tightly bunched on historical pedigree and star quality despite varying recent form. The expanded 48-team format and relatively open groups have kept probabilities clustered among these sides, as no single nation has pulled clear on the eve of the tournament and several contenders enter with comparable injury concerns and preparation schedules.", "labels": ["2026-05-30T16:58:49", "2026-05-30T18:04:15", "2026-05-30T19:12:21", "2026-05-30T20:11:13", "2026-05-30T22:03:49", "2026-05-31T00:03:50", "2026-05-31T05:21:26"], "datasets": [{"name": "Daf", "total": [14.75, 14.84, 14.82, 14.71, 14.71, 14.68, 14.59], "champion": [12.64, 12.72, 12.71, 12.61, 12.61, 12.58, 12.51]}, {"name": "Dan", "total": [27.59, 27.48, 27.31, 27.65, 27.65, 27.59, 28.24], "champion": [23.65, 23.55, 23.41, 23.7, 23.7, 23.65, 24.21]}, {"name": "Jac", "total": [10.24, 10.3, 10.43, 10.35, 10.35, 10.33, 10.27], "champion": [8.78, 8.83, 8.94, 8.87, 8.87, 8.85, 8.8]}, {"name": "Joey", "total": [23.49, 23.08, 23.06, 23.42, 23.42, 23.65, 23.38], "champion": [20.14, 19.78, 19.76, 20.08, 20.08, 20.27, 20.04]}, {"name": "Llyr", "total": [16.12, 16.21, 16.33, 16.21, 16.21, 16.17, 16.22], "champion": [13.81, 13.9, 14.0, 13.89, 13.89, 13.86, 13.9]}, {"name": "Matt", "total": [26.63, 26.79, 26.76, 26.56, 26.56, 26.5, 26.35], "champion": [22.83, 22.96, 22.94, 22.76, 22.76, 22.72, 22.59]}, {"name": "Neb", "total": [0.41, 0.41, 0.41, 0.41, 0.41, 0.41, 0.41], "champion": [0.35, 0.35, 0.35, 0.35, 0.35, 0.35, 0.35]}, {"name": "Rhys", "total": [20.76, 20.88, 20.86, 20.7, 20.7, 20.66, 20.54], "champion": [17.8, 17.9, 17.88, 17.74, 17.74, 17.71, 17.61]}]}
+{
+  "subtitle": "Spain and France lead the 2026 World Cup winner market with nearly identical implied probabilities around 17 percent each, reflecting their status as the top two sides in recent FIFA rankings and predictive models. Spain\u2019s strong European Championship pedigree, high Elo rating, and consistent qualification results underpin trader confidence, while France benefits from exceptional squad depth despite minor injury concerns like Hugo Ekitike\u2019s absence. England\u2019s flawless qualifying campaign and attacking options keep it competitive at 11 percent, with Argentina\u2019s defending-champion experience and Brazil\u2019s traditional strength adding further balance. The tight clustering among these elite European and South American contenders stems from comparable recent form, roster quality, and limited separation in head-to-head historical data heading into the expanded tournament.",
+  "labels": [
+    "2026-05-30T16:58:49",
+    "2026-05-30T18:04:15",
+    "2026-05-30T19:12:21",
+    "2026-05-30T20:11:13",
+    "2026-05-30T22:03:49",
+    "2026-05-31T00:03:50",
+    "2026-05-31T05:21:26",
+    "2026-05-31T08:51:26"
+  ],
+  "datasets": [
+    {
+      "name": "Daf",
+      "total": [
+        14.75,
+        14.84,
+        14.82,
+        14.71,
+        14.71,
+        14.68,
+        14.59,
+        14.59
+      ],
+      "champion": [
+        12.64,
+        12.72,
+        12.71,
+        12.61,
+        12.61,
+        12.58,
+        12.51,
+        12.51
+      ]
+    },
+    {
+      "name": "Dan",
+      "total": [
+        27.59,
+        27.48,
+        27.31,
+        27.65,
+        27.65,
+        27.59,
+        28.24,
+        28.24
+      ],
+      "champion": [
+        23.65,
+        23.55,
+        23.41,
+        23.7,
+        23.7,
+        23.65,
+        24.21,
+        24.21
+      ]
+    },
+    {
+      "name": "Jac",
+      "total": [
+        10.24,
+        10.3,
+        10.43,
+        10.35,
+        10.35,
+        10.33,
+        10.27,
+        10.27
+      ],
+      "champion": [
+        8.78,
+        8.83,
+        8.94,
+        8.87,
+        8.87,
+        8.85,
+        8.8,
+        8.8
+      ]
+    },
+    {
+      "name": "Joey",
+      "total": [
+        23.49,
+        23.08,
+        23.06,
+        23.42,
+        23.42,
+        23.65,
+        23.38,
+        23.51
+      ],
+      "champion": [
+        20.14,
+        19.78,
+        19.76,
+        20.08,
+        20.08,
+        20.27,
+        20.04,
+        20.15
+      ]
+    },
+    {
+      "name": "Llyr",
+      "total": [
+        16.12,
+        16.21,
+        16.33,
+        16.21,
+        16.21,
+        16.17,
+        16.22,
+        16.08
+      ],
+      "champion": [
+        13.81,
+        13.9,
+        14.0,
+        13.89,
+        13.89,
+        13.86,
+        13.9,
+        13.78
+      ]
+    },
+    {
+      "name": "Matt",
+      "total": [
+        26.63,
+        26.79,
+        26.76,
+        26.56,
+        26.56,
+        26.5,
+        26.35,
+        26.35
+      ],
+      "champion": [
+        22.83,
+        22.96,
+        22.94,
+        22.76,
+        22.76,
+        22.72,
+        22.59,
+        22.59
+      ]
+    },
+    {
+      "name": "Neb",
+      "total": [
+        0.41,
+        0.41,
+        0.41,
+        0.41,
+        0.41,
+        0.41,
+        0.41,
+        0.41
+      ],
+      "champion": [
+        0.35,
+        0.35,
+        0.35,
+        0.35,
+        0.35,
+        0.35,
+        0.35,
+        0.35
+      ]
+    },
+    {
+      "name": "Rhys",
+      "total": [
+        20.76,
+        20.88,
+        20.86,
+        20.7,
+        20.7,
+        20.66,
+        20.54,
+        20.54
+      ],
+      "champion": [
+        17.8,
+        17.9,
+        17.88,
+        17.74,
+        17.74,
+        17.71,
+        17.61,
+        17.61
+      ]
+    }
+  ]
+}
