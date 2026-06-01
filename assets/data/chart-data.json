@@ -1,5 +1,5 @@
 {
-  "subtitle": "European powers Spain and France sit atop trader consensus for the 2026 World Cup at nearly identical implied probabilities, reflecting their status as recent continental champions with exceptional squad depth and attacking talent led by players such as Lamine Yamal and Kylian Mbapp\u00e9. England follows closely behind, buoyed by consistent tournament runs but tempered by historical knockout-stage shortfalls. The bunched probabilities among these sides and the next tier, including Portugal, Argentina, and Brazil, stem from balanced group draws established last December, strong recent qualifying results, and fluid injury updates\u2014most notably Yamal\u2019s hamstring recovery timeline\u2014that keep multiple paths open through the expanded 48-team knockout format. This setup underscores how minor shifts in form or roster availability can rapidly recalibrate market positioning ahead of the June kickoff.",
+  "subtitle": "European powerhouses Spain and France sit neck-and-neck as the narrowest of favorites to lift the 2026 FIFA World Cup trophy, with England, Portugal, Argentina, and Brazil tightly bunched behind them. Spain\u2019s status as reigning European champions, bolstered by an emerging core featuring Lamine Yamal alongside experienced midfield anchors, underpins their edge, while France counters with unmatched squad depth and recent strong showings in UEFA competitions. England\u2019s consistent qualifying form and attacking talent keep them in contention, and defending champions Argentina retain momentum from their 2022 success despite an aging Messi-led attack. The expanded 48-team field and balanced group stage create pathways for several contenders, sustaining the close market pricing as teams finalize preparations ahead of the June kickoff.",
   "labels": [
     "2026-05-30T16:58:49",
     "2026-05-30T18:04:15",
@@ -15,7 +15,8 @@
     "2026-05-31T17:10:55",
     "2026-05-31T19:21:56",
     "2026-05-31T21:03:29",
-    "2026-05-31T23:03:38"
+    "2026-05-31T23:03:38",
+    "2026-06-01T04:24:37"
   ],
   "datasets": [
     {
@@ -35,6 +36,7 @@
         14.57,
         14.51,
         14.49,
+        14.27,
         14.27
       ],
       "champion": [
@@ -52,6 +54,7 @@
         12.49,
         12.43,
         12.42,
+        12.23,
         12.23
       ]
     },
@@ -72,6 +75,7 @@
         28.46,
         28.47,
         28.44,
+        28.27,
         28.27
       ],
       "champion": [
@@ -89,6 +93,7 @@
         24.4,
         24.4,
         24.38,
+        24.23,
         24.23
       ]
     },
@@ -109,7 +114,8 @@
         10.35,
         10.4,
         10.39,
-        11.15
+        11.15,
+        11.01
       ],
       "champion": [
         8.78,
@@ -126,7 +132,8 @@
         8.87,
         8.91,
         8.91,
-        9.55
+        9.55,
+        9.44
       ]
     },
     {
@@ -146,6 +153,7 @@
         22.74,
         22.03,
         22.01,
+        21.88,
         21.88
       ],
       "champion": [
@@ -163,6 +171,7 @@
         19.49,
         18.89,
         18.87,
+        18.76,
         18.76
       ]
     },
@@ -183,6 +192,7 @@
         16.21,
         16.56,
         16.68,
+        16.72,
         16.72
       ],
       "champion": [
@@ -200,6 +210,7 @@
         13.89,
         14.19,
         14.3,
+        14.33,
         14.33
       ]
     },
@@ -220,6 +231,7 @@
         26.69,
         26.96,
         26.93,
+        26.78,
         26.78
       ],
       "champion": [
@@ -237,6 +249,7 @@
         22.88,
         23.11,
         23.09,
+        22.95,
         22.95
       ]
     },
@@ -257,6 +270,7 @@
         0.41,
         0.41,
         0.41,
+        0.41,
         0.41
       ],
       "champion": [
@@ -271,6 +285,7 @@
         0.35,
         0.35,
         0.69,
+        0.35,
         0.35,
         0.35,
         0.35,
@@ -294,7 +309,8 @@
         20.56,
         20.66,
         20.64,
-        20.52
+        20.52,
+        20.66
       ],
       "champion": [
         17.8,
@@ -311,7 +327,8 @@
         17.63,
         17.71,
         17.7,
-        17.59
+        17.59,
+        17.71
       ]
     }
   ]
