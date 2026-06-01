@@ -1,5 +1,5 @@
 {
-  "subtitle": "France and Spain sit as near co-favorites in the 2026 World Cup winner market, reflecting their status as the top two sides in the latest FIFA rankings and consistent strong results in recent Nations League and qualifying campaigns. England, Portugal, Argentina, and Brazil follow closely behind, buoyed by experienced squads, attacking depth, and favorable historical performances in major tournaments. The tight clustering among these contenders stems from balanced squad quality, limited standout injuries ahead of the June 11 kickoff, and the expanded 48-team format that rewards depth over the long haul, while also leaving room for momentum shifts once group-stage fixtures begin.",
+  "subtitle": "France and Spain sit nearly tied atop the World Cup winner market, reflecting their status as the top two sides in the latest FIFA rankings and strong recent results in European qualifiers and the 2024 Euros. Spain benefits from a young, technically gifted core including Lamine Yamal and Pedri, while France relies on Kylian Mbapp\u00e9\u2019s scoring threat and proven depth. England follows closely with Jude Bellingham anchoring a balanced squad under Thomas Tuchel. Argentina, Brazil, and Portugal remain competitive thanks to star power and historical pedigree, yet the field stays bunched because no single nation has separated itself in the run-up to the expanded 48-team tournament opening June 11.",
   "labels": [
     "2026-05-30T16:58:49",
     "2026-05-30T18:04:15",
@@ -17,7 +17,8 @@
     "2026-05-31T21:03:29",
     "2026-05-31T23:03:38",
     "2026-06-01T04:24:37",
-    "2026-06-01T10:23:18"
+    "2026-06-01T10:23:18",
+    "2026-06-01T16:40:48"
   ],
   "datasets": [
     {
@@ -39,7 +40,8 @@
         14.49,
         14.27,
         14.27,
-        14.24
+        14.24,
+        14.12
       ],
       "champion": [
         12.64,
@@ -58,7 +60,8 @@
         12.42,
         12.23,
         12.23,
-        12.21
+        12.21,
+        12.1
       ]
     },
     {
@@ -80,7 +83,8 @@
         28.44,
         28.27,
         28.27,
-        28.35
+        28.35,
+        28.38
       ],
       "champion": [
         23.65,
@@ -99,7 +103,8 @@
         24.38,
         24.23,
         24.23,
-        24.3
+        24.3,
+        24.33
       ]
     },
     {
@@ -121,7 +126,8 @@
         10.39,
         11.15,
         11.01,
-        10.85
+        10.85,
+        10.86
       ],
       "champion": [
         8.78,
@@ -140,7 +146,8 @@
         8.91,
         9.55,
         9.44,
-        9.3
+        9.3,
+        9.31
       ]
     },
     {
@@ -162,7 +169,8 @@
         22.01,
         21.88,
         21.88,
-        21.84
+        21.84,
+        21.86
       ],
       "champion": [
         20.14,
@@ -181,7 +189,8 @@
         18.87,
         18.76,
         18.76,
-        18.72
+        18.72,
+        18.74
       ]
     },
     {
@@ -203,7 +212,8 @@
         16.68,
         16.72,
         16.72,
-        16.69
+        16.69,
+        16.7
       ],
       "champion": [
         13.81,
@@ -222,7 +232,8 @@
         14.3,
         14.33,
         14.33,
-        14.3
+        14.3,
+        14.32
       ]
     },
     {
@@ -244,7 +255,8 @@
         26.93,
         26.78,
         26.78,
-        26.72
+        26.72,
+        26.61
       ],
       "champion": [
         22.83,
@@ -263,7 +275,8 @@
         23.09,
         22.95,
         22.95,
-        22.91
+        22.91,
+        22.81
       ]
     },
     {
@@ -285,7 +298,8 @@
         0.41,
         0.41,
         0.41,
-        0.41
+        0.41,
+        0.54
       ],
       "champion": [
         0.35,
@@ -304,7 +318,8 @@
         0.35,
         0.35,
         0.35,
-        0.35
+        0.35,
+        0.47
       ]
     },
     {
@@ -326,7 +341,8 @@
         20.64,
         20.52,
         20.66,
-        20.89
+        20.89,
+        20.91
       ],
       "champion": [
         17.8,
@@ -345,7 +361,8 @@
         17.7,
         17.59,
         17.71,
-        17.91
+        17.91,
+        17.92
       ]
     }
   ]
