@@ -1,5 +1,5 @@
 {
-  "subtitle": "European powerhouses Spain and France sit neck-and-neck as the narrowest of favorites to lift the 2026 FIFA World Cup trophy, with England, Portugal, Argentina, and Brazil tightly bunched behind them. Spain\u2019s status as reigning European champions, bolstered by an emerging core featuring Lamine Yamal alongside experienced midfield anchors, underpins their edge, while France counters with unmatched squad depth and recent strong showings in UEFA competitions. England\u2019s consistent qualifying form and attacking talent keep them in contention, and defending champions Argentina retain momentum from their 2022 success despite an aging Messi-led attack. The expanded 48-team field and balanced group stage create pathways for several contenders, sustaining the close market pricing as teams finalize preparations ahead of the June kickoff.",
+  "subtitle": "France and Spain sit as near co-favorites in the 2026 World Cup winner market, reflecting their status as the top two sides in the latest FIFA rankings and consistent strong results in recent Nations League and qualifying campaigns. England, Portugal, Argentina, and Brazil follow closely behind, buoyed by experienced squads, attacking depth, and favorable historical performances in major tournaments. The tight clustering among these contenders stems from balanced squad quality, limited standout injuries ahead of the June 11 kickoff, and the expanded 48-team format that rewards depth over the long haul, while also leaving room for momentum shifts once group-stage fixtures begin.",
   "labels": [
     "2026-05-30T16:58:49",
     "2026-05-30T18:04:15",
@@ -16,7 +16,8 @@
     "2026-05-31T19:21:56",
     "2026-05-31T21:03:29",
     "2026-05-31T23:03:38",
-    "2026-06-01T04:24:37"
+    "2026-06-01T04:24:37",
+    "2026-06-01T10:23:18"
   ],
   "datasets": [
     {
@@ -37,7 +38,8 @@
         14.51,
         14.49,
         14.27,
-        14.27
+        14.27,
+        14.24
       ],
       "champion": [
         12.64,
@@ -55,7 +57,8 @@
         12.43,
         12.42,
         12.23,
-        12.23
+        12.23,
+        12.21
       ]
     },
     {
@@ -76,7 +79,8 @@
         28.47,
         28.44,
         28.27,
-        28.27
+        28.27,
+        28.35
       ],
       "champion": [
         23.65,
@@ -94,7 +98,8 @@
         24.4,
         24.38,
         24.23,
-        24.23
+        24.23,
+        24.3
       ]
     },
     {
@@ -115,7 +120,8 @@
         10.4,
         10.39,
         11.15,
-        11.01
+        11.01,
+        10.85
       ],
       "champion": [
         8.78,
@@ -133,7 +139,8 @@
         8.91,
         8.91,
         9.55,
-        9.44
+        9.44,
+        9.3
       ]
     },
     {
@@ -154,7 +161,8 @@
         22.03,
         22.01,
         21.88,
-        21.88
+        21.88,
+        21.84
       ],
       "champion": [
         20.14,
@@ -172,7 +180,8 @@
         18.89,
         18.87,
         18.76,
-        18.76
+        18.76,
+        18.72
       ]
     },
     {
@@ -193,7 +202,8 @@
         16.56,
         16.68,
         16.72,
-        16.72
+        16.72,
+        16.69
       ],
       "champion": [
         13.81,
@@ -211,7 +221,8 @@
         14.19,
         14.3,
         14.33,
-        14.33
+        14.33,
+        14.3
       ]
     },
     {
@@ -232,7 +243,8 @@
         26.96,
         26.93,
         26.78,
-        26.78
+        26.78,
+        26.72
       ],
       "champion": [
         22.83,
@@ -250,7 +262,8 @@
         23.11,
         23.09,
         22.95,
-        22.95
+        22.95,
+        22.91
       ]
     },
     {
@@ -271,6 +284,7 @@
         0.41,
         0.41,
         0.41,
+        0.41,
         0.41
       ],
       "champion": [
@@ -285,6 +299,7 @@
         0.35,
         0.35,
         0.69,
+        0.35,
         0.35,
         0.35,
         0.35,
@@ -310,7 +325,8 @@
         20.66,
         20.64,
         20.52,
-        20.66
+        20.66,
+        20.89
       ],
       "champion": [
         17.8,
@@ -328,7 +344,8 @@
         17.71,
         17.7,
         17.59,
-        17.71
+        17.71,
+        17.91
       ]
     }
   ]
