@@ -1,5 +1,10 @@
 {
-  "subtitle": "European powerhouses France and Spain sit atop the 2026 World Cup winner market at 17.1% and 16.8% implied probability, with England at 11.2%, reflecting trader consensus on squad depth and recent Nations League results. Spain regained slight favor after Lamine Yamal's hamstring concerns eased, allowing the teenage star to feature, while France maintains elite rankings and defensive organization. Portugal and Argentina follow closely on star power and experience, with the expanded 48-team field and favorable group draws keeping several contenders within striking distance of a deep run. No dominant pre-tournament form shift has separated the leaders, sustaining the bunched pricing among the top six sides.",
+  "subtitle-win": [
+    "The expanded 48-team field and balanced bracket have kept the 2026 World Cup title race tightly bunched, with France and Spain trading narrow leads on the back of deep attacking options and strong recent Nations League results. Spain\u2019s position strengthened after Lamine Yamal showed positive signs of recovery from a hamstring issue, while France benefits from squad continuity and defensive organization under a proven manager. England\u2019s solid qualifying campaign and midfield depth sustain its share, with Argentina and Brazil close behind on individual talent despite South American qualifying challenges. The absence of a clear standout side, combined with favorable group draws for several contenders, sustains the competitive dynamics reflected in current trader consensus."
+  ],
+  "subtitle-final": [
+    "Spain and France enter the expanded 48-team 2026 World Cup as the clearest frontrunners to reach the final, buoyed by strong recent results, deep squads, and favorable group draws. Spain tops most power rankings after consistent performances in UEFA competition, while France benefits from elite talent across positions despite minor injury concerns. Argentina, the defending champion, and England follow closely, with Brazil and Portugal also well-placed based on historical deep runs and current form. The co-hosts (USA, Mexico, Canada) face tougher paths out of their groups, and the larger field plus knockout format heighten upset potential for teams like Germany or the Netherlands. The tournament opens June 11, with the final set for July 19 at MetLife Stadium."
+  ],
   "labels": [
     "2026-05-30T16:58:49",
     "2026-05-30T18:04:15",
@@ -19,7 +24,8 @@
     "2026-06-01T04:24:37",
     "2026-06-01T10:23:18",
     "2026-06-01T16:40:48",
-    "2026-06-01T20:57:13"
+    "2026-06-01T20:57:13",
+    "2026-06-02T00:34:58"
   ],
   "datasets": [
     {
@@ -43,7 +49,8 @@
         14.27,
         14.24,
         14.12,
-        14.15
+        14.15,
+        14.77
       ],
       "champion": [
         12.64,
@@ -64,7 +71,8 @@
         12.23,
         12.21,
         12.1,
-        12.13
+        12.13,
+        12.12
       ]
     },
     {
@@ -88,7 +96,8 @@
         28.27,
         28.35,
         28.38,
-        28.44
+        28.44,
+        26.91
       ],
       "champion": [
         23.65,
@@ -109,7 +118,8 @@
         24.23,
         24.3,
         24.33,
-        24.37
+        24.37,
+        24.35
       ]
     },
     {
@@ -133,7 +143,8 @@
         11.01,
         10.85,
         10.86,
-        10.88
+        10.88,
+        11.49
       ],
       "champion": [
         8.78,
@@ -154,7 +165,8 @@
         9.44,
         9.3,
         9.31,
-        9.33
+        9.33,
+        9.32
       ]
     },
     {
@@ -178,7 +190,8 @@
         21.88,
         21.84,
         21.86,
-        21.9
+        21.9,
+        21.92
       ],
       "champion": [
         20.14,
@@ -199,7 +212,8 @@
         18.76,
         18.72,
         18.74,
-        18.78
+        18.78,
+        18.87
       ]
     },
     {
@@ -223,7 +237,8 @@
         16.72,
         16.69,
         16.7,
-        16.73
+        16.73,
+        17.11
       ],
       "champion": [
         13.81,
@@ -244,7 +259,8 @@
         14.33,
         14.3,
         14.32,
-        14.34
+        14.34,
+        14.33
       ]
     },
     {
@@ -268,7 +284,8 @@
         26.78,
         26.72,
         26.61,
-        26.53
+        26.53,
+        25.81
       ],
       "champion": [
         22.83,
@@ -289,7 +306,8 @@
         22.95,
         22.91,
         22.81,
-        22.74
+        22.74,
+        22.72
       ]
     },
     {
@@ -313,7 +331,8 @@
         0.41,
         0.41,
         0.54,
-        0.41
+        0.41,
+        1.32
       ],
       "champion": [
         0.35,
@@ -334,6 +353,7 @@
         0.35,
         0.35,
         0.47,
+        0.35,
         0.35
       ]
     },
@@ -358,7 +378,8 @@
         20.66,
         20.89,
         20.91,
-        20.95
+        20.95,
+        20.69
       ],
       "champion": [
         17.8,
@@ -379,7 +400,8 @@
         17.71,
         17.91,
         17.92,
-        17.96
+        17.96,
+        17.94
       ]
     }
   ]
