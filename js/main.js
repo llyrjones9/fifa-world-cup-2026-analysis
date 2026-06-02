@@ -6,7 +6,8 @@ const COLORS = [
 fetch('assets/data/chart-data.json')
     .then(r => r.json())
     .then(data => {
-    document.getElementById('subtitle').textContent = data.subtitle;
+    document.getElementById('subtitle').textContent = data['subtitle-win'][0];
+    document.getElementById('subtitle-final').textContent = data['subtitle-final'][0];
 
     const datasets = data.datasets.flatMap((ds, i) => {
         const color = COLORS[i % COLORS.length];
