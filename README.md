@@ -22,12 +22,13 @@ The player who drew the team that becomes champion wins the champion prize. Runn
 If a player owns both the champion and runner-up, they win both prizes.
 
 ## Strategy
-1. Odds to **win** are retrieved from polymarket.
+1. Odds to **win** and **reach the final** are retrieved from Polymarket.
 2. The implied probabilities of each team becoming champion are summed and normalised against 1 to remove the effect of market spread.
-3. I failed to find a free API for the runner-up market; I assumed the probabilities of becoming runner-up are equal to those of becoming champion. This isn't strictly true, but it's a reasonable assumption in the absence of better data. If Team A is twice as likely to become champion as Team B, then it may be sensible to suggest that Team A is twice as likely to reach the final as Team B.
-4. The probability that a player will hold the champion team is the sum of the probabilities of all the teams they hold becoming champions. The value of their stake from the perspective of winning the champion prize is then calculated as the expected value (overall probability x prize value). Total stake value is calculated as their champion value plus their runner-up value.
-5. A workflow is executed periodically to retrieve the most current odds data.
-6. A chart hosted on GitHub Pages illustrates the value of each player's stake over time.
+3. The implied probabilities of each team reaching the final are summed and normalised against 2 (2 teams will contest the final) to remove the effect of market spread.
+4. The implied probabilities of each team becoming runner-up are calculated as the probability of reaching the final less the probability of becoming champion.
+5. The probability that a player will hold the champion team is the sum of the probabilities of all the teams they hold becoming champions. The value of their stake from the perspective of winning the champion prize is then calculated as the expected value (overall probability x prize value). Total stake value is calculated as their champion value plus their runner-up value.
+6. A workflow is executed periodically to retrieve the most current odds data.
+7. A chart hosted on GitHub Pages illustrates the value of each player's stake over time.
 
 <div align="center">
 
