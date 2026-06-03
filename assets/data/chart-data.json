@@ -1,9 +1,9 @@
 {
   "subtitle-win": [
-    "Spain and France remain the frontrunners for the 2026 FIFA World Cup title, with England, Portugal, and Argentina clustered closely behind, reflecting the wisdom of crowds in current implied probabilities. Spain\u2019s strong Euro 2024 pedigree and depth have kept them near the top, though Lamine Yamal\u2019s hamstring recovery raises questions about early knockout-stage availability. France\u2019s defensive organization and recent form sustain their position, while England benefits from squad quality under Thomas Tuchel yet faces historical tournament questions. Argentina\u2019s defending-champion experience and Lionel Messi\u2019s leadership provide upset potential, tempered by age-related concerns and a demanding path. The expanded 48-team format and group-stage forgiveness further compress the field, as multiple contenders retain realistic advancement routes despite varying injury reports and recent qualifying results."
+    "France and Spain lead the 2026 World Cup winner market with closely matched implied probabilities, reflecting their status as the top two sides in recent FIFA rankings and power assessments. Spain enters as European champions with an extended unbeaten run in competitive fixtures, while France benefits from exceptional squad depth and consistent results in recent Nations League and qualifying campaigns. England, Argentina, Portugal, and Brazil follow tightly behind due to strong recent form, experienced cores, and favorable group draws in the expanded 48-team field. This bunched pricing underscores the parity among elite European and South American contenders, where minor shifts in fitness, tactical execution, or knockout matchups could readily alter the hierarchy before the July final."
   ],
   "subtitle-final": [
-    "Spain and France stand out among the leading contenders to reach the 2026 World Cup final, reflecting their strong recent form in European competitions and deep squads featuring players like Lamine Yamal and Kylian Mbapp\u00e9. Spain, the current European champions, has maintained an impressive unbeaten run in competitive matches, though Yamal's recent hamstring recovery adds some uncertainty to their attacking options ahead of the June 11 kickoff. England and defending champions Argentina follow closely, buoyed by consistent performances and experience in knockout stages, while Brazil and Portugal benefit from star power and favorable group draws. The expanded 48-team format increases the path through group stage and round of 32, but injuries, fatigue from club seasons, and matchup-specific tactics in later rounds remain key variables that could shift outcomes for any side."
+    "The 2026 FIFA World Cup begins June 11 across North America, with the final scheduled for July 19 at MetLife Stadium. Spain enters as the narrow favorite to reach the final, buoyed by its status as reigning European champions and strong recent results, though forward Lamine Yamal\u2019s hamstring recovery timeline creates uncertainty for early matches. France remains a close co-favorite, relying on its deep squad despite reported concerns over defender William Saliba\u2019s availability. Argentina, the defending champions, England, and Brazil round out the leading contenders, each with experienced cores but facing questions around form and fitness. Multiple high-profile injuries across several nations, including key absences for Germany and Canada, add volatility heading into group play, where path and matchups will quickly shape advancement odds."
   ],
   "labels": [
     "2026-05-30T16:58:49",
@@ -34,7 +34,8 @@
     "2026-06-02T23:29:53",
     "2026-06-03T03:31:23",
     "2026-06-03T08:50:22",
-    "2026-06-03T13:11:58"
+    "2026-06-03T13:11:58",
+    "2026-06-03T18:19:57"
   ],
   "datasets": [
     {
@@ -68,7 +69,8 @@
         14.5,
         14.46,
         14.14,
-        14.16
+        14.16,
+        14.06
       ],
       "champion": [
         12.64,
@@ -99,7 +101,8 @@
         11.9,
         11.91,
         11.92,
-        11.91
+        11.91,
+        11.8
       ]
     },
     {
@@ -133,7 +136,8 @@
         27.06,
         27.13,
         27.04,
-        26.98
+        26.98,
+        27.02
       ],
       "champion": [
         23.65,
@@ -164,7 +168,8 @@
         24.37,
         24.4,
         24.42,
-        24.4
+        24.4,
+        24.42
       ]
     },
     {
@@ -198,7 +203,8 @@
         11.65,
         11.77,
         11.58,
-        11.74
+        11.74,
+        11.6
       ],
       "champion": [
         8.78,
@@ -229,7 +235,8 @@
         9.56,
         9.69,
         9.7,
-        9.81
+        9.81,
+        9.7
       ]
     },
     {
@@ -263,7 +270,8 @@
         22.67,
         22.46,
         22.43,
-        22.48
+        22.48,
+        22.53
       ],
       "champion": [
         20.14,
@@ -294,7 +302,8 @@
         19.59,
         19.38,
         19.4,
-        19.38
+        19.38,
+        19.4
       ]
     },
     {
@@ -328,7 +337,8 @@
         16.86,
         16.81,
         17.31,
-        17.28
+        17.28,
+        17.09
       ],
       "champion": [
         13.81,
@@ -359,7 +369,8 @@
         13.99,
         14.01,
         14.37,
-        14.24
+        14.24,
+        14.26
       ]
     },
     {
@@ -393,7 +404,8 @@
         25.36,
         25.27,
         25.26,
-        25.05
+        25.05,
+        25.13
       ],
       "champion": [
         22.83,
@@ -424,7 +436,8 @@
         22.27,
         22.3,
         21.97,
-        21.83
+        21.83,
+        21.85
       ]
     },
     {
@@ -458,6 +471,7 @@
         1.12,
         1.13,
         1.09,
+        1.1,
         1.1
       ],
       "champion": [
@@ -479,6 +493,7 @@
         0.35,
         0.35,
         0.47,
+        0.35,
         0.35,
         0.35,
         0.35,
@@ -523,7 +538,8 @@
         20.78,
         20.96,
         21.16,
-        21.22
+        21.22,
+        21.49
       ],
       "champion": [
         17.8,
@@ -554,7 +570,8 @@
         17.96,
         17.98,
         17.88,
-        18.09
+        18.09,
+        18.23
       ]
     }
   ]
