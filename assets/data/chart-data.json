@@ -1,9 +1,9 @@
 {
   "subtitle-win": [
-    "The closely bunched probabilities among France, Spain, and England reflect the depth of elite European squads entering the expanded 48-team 2026 tournament, where recent international form, squad depth, and favorable group positioning have kept the race tight. Spain's fluid attack and recent results have supported their position, though injury concerns around key attackers introduce some uncertainty. France maintains strong defensive organization and experience under their manager, while England benefits from tactical adjustments and consistent performances. These factors, combined with the continued relevance of Argentina, Brazil, Portugal, and Germany, create competitive dynamics that prevent any single side from pulling far ahead in trader consensus."
+    "France and Spain lead the market with closely aligned implied probabilities, reflecting their top FIFA rankings and sustained excellence across recent Nations League and qualifying campaigns. England sits just behind amid strong squad depth, while Argentina leverages defending champion pedigree and Lionel Messi\u2019s influence. Brazil, Portugal, and Germany follow, supported by historical pedigree and current form. The bunched top tier highlights intense parity among elite European and South American sides in the expanded 48-team tournament, where minor roster tweaks, fitness updates, or group-stage results can rapidly shift outcomes."
   ],
   "subtitle-final": [
-    "The 2026 FIFA World Cup opens June 11 across the United States, Canada, and Mexico with an expanded 48-team field and confirmed squads now finalized. Traditional contenders France, Spain, England, Argentina, Brazil, and Portugal enter as the clearest favorites to reach the final, buoyed by elite depth, recent international form, and favorable group-stage positioning that should ease early advancement. Co-hosts Mexico, Canada, and the United States face tougher paths despite home support, while emerging sides such as Colombia and Ecuador carry upset potential through strong defensive organization and attacking talent. Recent arrivals of national teams and the completed draw have sharpened focus on fixture congestion, travel across time zones, and the need for squad rotation in a tournament that stretches into mid-July."
+    "Spain, France, England, Argentina, Brazil, and Portugal stand out as the leading contenders to reach the 2026 FIFA World Cup final at MetLife Stadium on July 19, reflecting strong recent international form and squad depth ahead of the June 11 kickoff. Spain enters as European champions with an extended unbeaten run, while France relies on its deep attacking options and France\u2019s prior final experience. Defending champions Argentina maintain core continuity from 2022, Brazil and Portugal bring attacking firepower, and England features consistent Premier League performers. The expanded 48-team format and recent qualification playoffs have set a balanced group stage, though injury recoveries for key attackers and early knockout matchups could reshape paths to the final."
   ],
   "labels": [
     "2026-05-30T16:58:49",
@@ -38,7 +38,8 @@
     "2026-06-03T18:19:57",
     "2026-06-03T21:44:45",
     "2026-06-03T23:28:59",
-    "2026-06-04T02:59:30"
+    "2026-06-04T02:59:30",
+    "2026-06-04T07:56:16"
   ],
   "datasets": [
     {
@@ -76,7 +77,8 @@
         14.06,
         14.02,
         14.04,
-        14.08
+        14.08,
+        14.03
       ],
       "champion": [
         12.64,
@@ -110,6 +112,7 @@
         11.91,
         11.8,
         11.78,
+        11.77,
         11.77,
         11.77
       ]
@@ -149,7 +152,8 @@
         27.02,
         26.95,
         26.93,
-        27.21
+        27.21,
+        27.29
       ],
       "champion": [
         23.65,
@@ -184,7 +188,8 @@
         24.42,
         24.39,
         24.35,
-        24.35
+        24.35,
+        24.47
       ]
     },
     {
@@ -222,7 +227,8 @@
         11.6,
         11.72,
         11.84,
-        11.75
+        11.75,
+        11.6
       ],
       "champion": [
         8.78,
@@ -257,7 +263,8 @@
         9.7,
         9.74,
         9.9,
-        9.9
+        9.9,
+        9.79
       ]
     },
     {
@@ -295,7 +302,8 @@
         22.53,
         22.47,
         22.43,
-        22.33
+        22.33,
+        22.35
       ],
       "champion": [
         20.14,
@@ -329,6 +337,7 @@
         19.38,
         19.4,
         19.37,
+        19.34,
         19.34,
         19.34
       ]
@@ -368,7 +377,8 @@
         17.09,
         16.95,
         17.03,
-        16.95
+        16.95,
+        17.0
       ],
       "champion": [
         13.81,
@@ -402,6 +412,7 @@
         14.24,
         14.26,
         14.12,
+        14.1,
         14.1,
         14.1
       ]
@@ -441,6 +452,7 @@
         25.13,
         25.09,
         25.11,
+        24.93,
         24.93
       ],
       "champion": [
@@ -475,6 +487,7 @@
         21.83,
         21.85,
         21.82,
+        21.79,
         21.79,
         21.79
       ]
@@ -514,7 +527,8 @@
         1.1,
         1.1,
         1.11,
-        1.08
+        1.08,
+        1.06
       ],
       "champion": [
         0.35,
@@ -535,6 +549,7 @@
         0.35,
         0.35,
         0.47,
+        0.35,
         0.35,
         0.35,
         0.35,
@@ -587,7 +602,8 @@
         21.49,
         21.69,
         21.51,
-        21.67
+        21.67,
+        21.74
       ],
       "champion": [
         17.8,
@@ -621,6 +637,7 @@
         18.09,
         18.23,
         18.43,
+        18.41,
         18.41,
         18.41
       ]
