@@ -1,9 +1,9 @@
 {
   "subtitle-win": [
-    "Spain and France share the narrowest edge in trader consensus for the 2026 World Cup title at 16.2% implied probability each, reflecting their superior squad depth, recent form, and attacking talent ahead of the expanded 48-team tournament opening June 11. Spain benefits from an unbeaten run in recent matches and the emergence of young stars like Lamine Yamal, while France draws on consistent major-tournament experience and defensive organization. England sits at 11.3% thanks to its balanced roster and home-continent familiarity, with Argentina at 8.8% leveraging defending-champion pedigree. The tight clustering among these sides, plus Portugal and Brazil, stems from comparable strengths in midfield control, set-piece execution, and qualification paths, leaving realistic paths for several contenders to advance deep into the knockout stages."
+    "Spain and France share the lead in trader consensus at 16.2% implied probability each, with England close behind at 11.3%, as these sides combine elite FIFA rankings, deep attacking and midfield options, and proven tournament pedigrees heading into the expanded 2026 finals. Portugal, Argentina, and Brazil follow tightly due to star quality and recent form, while Germany and the Netherlands sit further back amid roster transitions. The bunched probabilities reflect parity among top European and South American nations, with group-stage paths and late squad confirmations adding uncertainty just days before the June 11 kickoff. No single team has separated decisively in recent internationals or qualifiers."
   ],
   "subtitle-final": [
-    "Spain and France enter the 2026 FIFA World Cup as the clearest frontrunners to reach the final, bolstered by recent major-tournament success, deep squad depth, and consistent results in UEFA Nations League and qualifying. Spain\u2019s Euro 2024 triumph and unbeaten run in competitive fixtures highlight their tactical discipline and youth pipeline, while France\u2019s blend of experience and athleticism positions them for another deep run after their 2022 final appearance. Argentina, the defending champions with Lionel Messi, retain strong momentum from Copa America success, though an aging core and tougher South American qualification path add variables. England, Brazil, and Portugal round out the leading group thanks to attacking firepower and recent form, with the expanded 48-team format and North American venues potentially favoring well-rested European sides in knockout stages."
+    "With the 2026 FIFA World Cup opening in days across North America, Spain and France lead implied probabilities to reach the final, driven by squad depth, strong recent form in qualifiers and friendlies, and favorable early paths. Argentina and Brazil rely on experienced attacking talent and historical knockout pedigree, while England and Portugal benefit from balanced rosters and attacking firepower. Key pre-tournament factors include injury recoveries for players like Lamine Yamal and Neymar, final squad announcements, and the challenges of the expanded 48-team format with its demanding schedule. Heat considerations in host cities and rest advantages in later rounds could also shape advancement odds as groups unfold."
   ],
   "labels": [
     "2026-05-30T16:58:49",
@@ -62,7 +62,8 @@
     "2026-06-06T15:09:03",
     "2026-06-06T17:04:15",
     "2026-06-06T19:10:52",
-    "2026-06-06T20:57:48"
+    "2026-06-06T20:57:48",
+    "2026-06-06T22:02:59"
   ],
   "datasets": [
     {
@@ -124,7 +125,8 @@
         14.2,
         14.26,
         14.19,
-        14.25
+        14.25,
+        14.11
       ],
       "champion": [
         12.64,
@@ -183,7 +185,8 @@
         11.82,
         11.8,
         11.74,
-        11.74
+        11.74,
+        11.7
       ]
     },
     {
@@ -245,7 +248,8 @@
         26.1,
         26.22,
         26.17,
-        26.09
+        26.09,
+        25.97
       ],
       "champion": [
         23.65,
@@ -304,7 +308,8 @@
         23.53,
         23.6,
         23.49,
-        23.37
+        23.37,
+        23.28
       ]
     },
     {
@@ -366,7 +371,8 @@
         12.13,
         12.14,
         12.32,
-        12.37
+        12.37,
+        12.56
       ],
       "champion": [
         8.78,
@@ -425,7 +431,8 @@
         9.83,
         9.81,
         10.12,
-        10.12
+        10.12,
+        10.31
       ]
     },
     {
@@ -487,7 +494,8 @@
         22.49,
         22.55,
         22.59,
-        22.59
+        22.59,
+        22.55
       ],
       "champion": [
         20.14,
@@ -546,7 +554,8 @@
         20.02,
         19.98,
         20.0,
-        20.0
+        20.0,
+        20.04
       ]
     },
     {
@@ -608,7 +617,8 @@
         17.19,
         16.87,
         16.99,
-        16.96
+        16.96,
+        17.2
       ],
       "champion": [
         13.81,
@@ -667,7 +677,8 @@
         14.28,
         14.14,
         14.19,
-        14.3
+        14.3,
+        14.36
       ]
     },
     {
@@ -729,7 +740,8 @@
         25.06,
         25.3,
         25.14,
-        25.19
+        25.19,
+        25.04
       ],
       "champion": [
         22.83,
@@ -788,7 +800,8 @@
         21.89,
         22.08,
         21.98,
-        21.98
+        21.98,
+        21.89
       ]
     },
     {
@@ -850,7 +863,8 @@
         1.33,
         0.97,
         0.94,
-        0.94
+        0.94,
+        0.93
       ],
       "champion": [
         0.35,
@@ -871,6 +885,7 @@
         0.35,
         0.35,
         0.47,
+        0.35,
         0.35,
         0.35,
         0.35,
@@ -971,7 +986,8 @@
         21.51,
         21.68,
         21.66,
-        21.61
+        21.61,
+        21.64
       ],
       "champion": [
         17.8,
@@ -1030,7 +1046,8 @@
         18.26,
         18.23,
         18.14,
-        18.14
+        18.14,
+        18.07
       ]
     }
   ]
