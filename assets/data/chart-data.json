@@ -1,9 +1,9 @@
 {
   "subtitle-win": [
-    "Spain and France sit atop the 2026 World Cup winner market as narrow leaders because both enter with elite squad depth, recent major-tournament pedigree, and strong qualification records. Spain\u2019s Euro 2024 triumph and attacking fluency under Luis de la Fuente give them the edge in trader consensus, while France\u2019s unparalleled talent pool and experience as 2018 champions and 2022 finalists keep them within a point. England, Portugal, Argentina, and Brazil follow closely, each boasting proven match-winners, solid recent form, and favorable group paths in the expanded field. This tight clustering stems from the wisdom of crowds recognizing that no single side holds a decisive advantage heading into a grueling knockout stage across North America, where injuries, rest, and momentum shifts can quickly reorder probabilities."
+    "Spain and France lead the 2026 World Cup winner market as the pre-tournament favorites due to Spain\u2019s Euro 2024 triumph with an attacking style featuring emerging talents and France\u2019s exceptional squad depth across positions. England and Portugal sit close behind on the strength of consistent international results and Premier League-level performers, while Argentina and Brazil have seen slight softening amid travel demands to the North American hosts. The tightly bunched top tier reflects a deep pool of European contenders with strong recent form, balanced lineups, and favorable draws, all amplified by the expanded 48-team format that heightens knockout-stage volatility and creates realistic paths for multiple sides to advance deep into the competition."
   ],
   "subtitle-final": [
-    "Spain and France lead pre-tournament consensus as the sides most likely to reach the July 19 final at MetLife Stadium, driven by their depth, recent European Championship pedigree, and favorable group-stage positioning in the expanded 48-team field. England, Portugal, defending champions Argentina, and Brazil sit immediately behind, with traders noting squad experience, attacking firepower, and historical knockout-stage resilience. Key variables include Lamine Yamal\u2019s fitness for Spain, Kylian Mbapp\u00e9\u2019s form for France, and how the expanded format and North American venues affect travel and rest for European and South American contenders. Recent international results and final squad announcements continue to shape implied probabilities ahead of the June 11 kickoff."
+    "Spain, France, and England sit atop pre-tournament futures as the sides with the strongest combination of recent Nations League and qualifying form, deep attacking options, and defensive organization heading into the expanded 48-team field. The December draw placed Spain and Argentina, along with France and England, on opposite bracket pathways, meaning the top four seeds can only meet in the semifinals or final and shaping early knockout projections. Host-nation advantages for the United States, Mexico, and Canada provide short-term group-stage boosts, while Brazil, Portugal, and Argentina rely on veteran leadership and individual match-winners to navigate a congested schedule across North America. Early group results beginning June 11 will quickly recalibrate implied probabilities for quarterfinal and semifinal berths, with rest, travel, and potential weather factors in outdoor venues adding further variables through the knockout rounds."
   ],
   "labels": [
     "2026-05-30T16:58:49",
@@ -98,7 +98,8 @@
     "2026-06-10T21:23:46",
     "2026-06-10T23:21:18",
     "2026-06-11T02:57:25",
-    "2026-06-11T08:03:57"
+    "2026-06-11T08:03:57",
+    "2026-06-11T12:38:42"
   ],
   "datasets": [
     {
@@ -196,7 +197,8 @@
         14.51,
         14.5,
         14.38,
-        14.25
+        14.25,
+        14.65
       ],
       "champion": [
         12.64,
@@ -291,7 +293,8 @@
         12.13,
         11.99,
         12.01,
-        11.85
+        11.85,
+        12.16
       ]
     },
     {
@@ -389,7 +392,8 @@
         25.72,
         25.79,
         25.73,
-        25.5
+        25.5,
+        25.57
       ],
       "champion": [
         23.65,
@@ -484,7 +488,8 @@
         22.74,
         22.7,
         22.74,
-        22.44
+        22.44,
+        22.47
       ]
     },
     {
@@ -582,7 +587,8 @@
         11.78,
         11.94,
         11.85,
-        11.76
+        11.76,
+        11.66
       ],
       "champion": [
         8.78,
@@ -677,7 +683,8 @@
         9.8,
         9.78,
         9.8,
-        9.66
+        9.66,
+        9.5
       ]
     },
     {
@@ -775,7 +782,8 @@
         23.02,
         22.85,
         22.92,
-        23.0
+        23.0,
+        23.12
       ],
       "champion": [
         20.14,
@@ -870,7 +878,8 @@
         20.41,
         20.37,
         20.29,
-        20.48
+        20.48,
+        20.5
       ]
     },
     {
@@ -968,7 +977,8 @@
         17.41,
         17.47,
         17.79,
-        18.12
+        18.12,
+        17.4
       ],
       "champion": [
         13.81,
@@ -1063,7 +1073,8 @@
         14.11,
         14.43,
         14.58,
-        14.96
+        14.96,
+        14.59
       ]
     },
     {
@@ -1161,7 +1172,8 @@
         25.25,
         25.1,
         25.13,
-        25.43
+        25.43,
+        25.51
       ],
       "champion": [
         22.83,
@@ -1256,7 +1268,8 @@
         22.39,
         22.35,
         22.39,
-        22.67
+        22.67,
+        22.7
       ]
     },
     {
@@ -1354,7 +1367,8 @@
         0.89,
         0.86,
         0.87,
-        0.83
+        0.83,
+        0.82
       ],
       "champion": [
         0.35,
@@ -1438,6 +1452,7 @@
         0.35,
         0.35,
         0.34,
+        0.35,
         0.35,
         0.35,
         0.35,
@@ -1547,7 +1562,8 @@
         21.43,
         21.49,
         21.33,
-        21.12
+        21.12,
+        21.27
       ],
       "champion": [
         17.8,
@@ -1642,7 +1658,8 @@
         18.08,
         18.04,
         17.84,
-        17.6
+        17.6,
+        17.72
       ]
     }
   ]
