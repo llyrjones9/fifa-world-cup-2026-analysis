@@ -1,9 +1,9 @@
 {
   "subtitle-win": [
-    "Spain and France lead as slight favorites due to their recent trophy-winning form\u2014Spain\u2019s Euro 2024 triumph and Olympic success, plus France\u2019s back-to-back final appearances\u2014combined with deep squads and favorable pre-tournament rankings. England follows closely behind under new management, buoyed by strong Premier League performers and attacking depth. Argentina\u2019s defending-champion status and Lionel Messi\u2019s presence keep them in the mix, while Brazil and Portugal benefit from star power despite some injury setbacks like Rodrygo\u2019s ACL tear. Final 26-man squads were locked in early June with limited late changes, and the bunched probabilities reflect a wide-open field where multiple European sides possess comparable talent, recent momentum, and paths through the expanded 48-team bracket."
+    "Spain and France sit atop the 2026 World Cup winner market as co-favorites due to their blend of recent major-tournament success and exceptional squad depth, with Spain's Euro 2024 title and Olympic gold medal underscoring possession dominance and youth integration, while France's repeated final appearances highlight attacking firepower around Kylian Mbapp\u00e9. Portugal, England, Argentina, and Brazil remain tightly bunched behind them because each boasts proven international pedigrees, elite midfield control, and star forwards\u2014Cristiano Ronaldo for Portugal, Harry Kane and Jude Bellingham for England, Lionel Messi for the defending champions, and Brazil's attacking options\u2014alongside strong qualifying records and manager stability. The expanded 48-team format and imminent group-stage kickoff amplify uncertainty, as minor injuries, form fluctuations, or knockout bracket paths could shift outcomes among these contenders with comparable talent pools and recent momentum."
   ],
   "subtitle-final": [
-    "Spain and France lead trader consensus for reaching the 2026 World Cup final, reflecting their superior squad depth, recent Nations League and qualifying form, and balanced attacks ahead of the expanded 48-team tournament opening June 11 across North America. Spain benefits from a deep midfield and defensive organization under recent coaching continuity, while France relies on elite forward options and experience in knockout stages. England, Portugal, Brazil, and Argentina follow closely, supported by star power and historical pedigree, though slight odds lengthening for some reflects concerns over aging rosters or integration. The draw, group-stage results starting immediately, and injury updates will drive early movement, with the final set for MetLife Stadium on July 19."
+    "Spain and France enter the expanded 48-team 2026 FIFA World Cup as the clearest frontrunners to reach the final, buoyed by Spain\u2019s Euro 2024 title, deep attacking options including Lamine Yamal and Nico Williams, and France\u2019s wealth of talent around Kylian Mbapp\u00e9. England, Portugal, Brazil, and defending champions Argentina follow closely in trader consensus, with each boasting proven match-winners and favorable paths through the draw\u2019s two separate semifinal brackets. The tournament opens June 11 with Mexico hosting South Africa, and early group results plus fitness updates\u2014particularly Yamal\u2019s hamstring recovery\u2014will quickly shape probabilities. Co-host advantages for the United States, Canada, and Mexico remain limited against elite European and South American sides in a format that rewards squad depth through the round of 32 and beyond."
   ],
   "labels": [
     "2026-05-30T16:58:49",
@@ -101,7 +101,8 @@
     "2026-06-11T08:03:57",
     "2026-06-11T12:38:42",
     "2026-06-11T16:47:42",
-    "2026-06-11T19:30:30"
+    "2026-06-11T19:30:30",
+    "2026-06-11T21:56:04"
   ],
   "datasets": [
     {
@@ -202,7 +203,8 @@
         14.25,
         14.65,
         14.42,
-        14.53
+        14.53,
+        14.58
       ],
       "champion": [
         12.64,
@@ -300,7 +302,8 @@
         11.85,
         12.16,
         12.09,
-        12.12
+        12.12,
+        12.2
       ]
     },
     {
@@ -401,7 +404,8 @@
         25.5,
         25.57,
         25.21,
-        24.8
+        24.8,
+        25.0
       ],
       "champion": [
         23.65,
@@ -499,7 +503,8 @@
         22.44,
         22.47,
         22.33,
-        22.38
+        22.38,
+        22.54
       ]
     },
     {
@@ -600,7 +605,8 @@
         11.76,
         11.66,
         11.62,
-        11.66
+        11.66,
+        11.45
       ],
       "champion": [
         8.78,
@@ -698,7 +704,8 @@
         9.66,
         9.5,
         9.32,
-        9.23
+        9.23,
+        9.18
       ]
     },
     {
@@ -799,7 +806,8 @@
         23.0,
         23.12,
         23.99,
-        24.34
+        24.34,
+        24.33
       ],
       "champion": [
         20.14,
@@ -897,7 +905,8 @@
         20.48,
         20.5,
         21.58,
-        21.46
+        21.46,
+        21.26
       ]
     },
     {
@@ -998,7 +1007,8 @@
         18.12,
         17.4,
         17.53,
-        17.76
+        17.76,
+        17.85
       ],
       "champion": [
         13.81,
@@ -1096,7 +1106,8 @@
         14.96,
         14.59,
         14.39,
-        14.77
+        14.77,
+        14.52
       ]
     },
     {
@@ -1197,7 +1208,8 @@
         25.43,
         25.51,
         25.26,
-        25.54
+        25.54,
+        25.35
       ],
       "champion": [
         22.83,
@@ -1295,7 +1307,8 @@
         22.67,
         22.7,
         22.56,
-        22.62
+        22.62,
+        22.77
       ]
     },
     {
@@ -1396,6 +1409,7 @@
         0.83,
         0.82,
         0.73,
+        0.77,
         0.77
       ],
       "champion": [
@@ -1480,6 +1494,7 @@
         0.35,
         0.35,
         0.34,
+        0.35,
         0.35,
         0.35,
         0.35,
@@ -1595,7 +1610,8 @@
         21.12,
         21.27,
         21.24,
-        20.6
+        20.6,
+        20.66
       ],
       "champion": [
         17.8,
@@ -1693,7 +1709,8 @@
         17.6,
         17.72,
         17.38,
-        17.08
+        17.08,
+        17.19
       ]
     }
   ]
