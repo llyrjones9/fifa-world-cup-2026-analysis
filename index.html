@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="assets/css/styles.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2.0.1"></script>
 </head>
 <body>
     <div class="container">
@@ -16,6 +17,7 @@
         <h2 id="subtitle-final"></h2>
         <div class="chart-toolbar">
             <button id="toggleChampion">Hide Champion Lines</button>
+            <button id="resetZoom" type="button">Reset Zoom</button>
         </div>
         <div class="chart-container">
             <canvas id="sweepChart"></canvas>

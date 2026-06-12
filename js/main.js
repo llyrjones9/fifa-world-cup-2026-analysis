@@ -6,6 +6,11 @@ const COLORS = [
 fetch('assets/data/chart-data.json')
     .then(r => r.json())
     .then(data => {
+    const zoomPlugin = window.zoomPlugin || window['chartjs-plugin-zoom'];
+    if (zoomPlugin) {
+        Chart.register(zoomPlugin);
+    }
+
     document.getElementById('subtitle').textContent = data['subtitle-win'][0];
     document.getElementById('subtitle-final').textContent = data['subtitle-final'][0];
 
@@ -45,6 +50,24 @@ fetch('assets/data/chart-data.json')
             responsive: true,
             maintainAspectRatio: false,
             plugins: {
+                zoom: {
+                    pan: {
+                        enabled: true,
+                        mode: 'x',
+                        threshold: 10
+                    },
+                    zoom: {
+                        drag: {
+                            enabled: true,
+                            backgroundColor: 'rgba(52, 152, 219, 0.15)',
+                            borderColor: 'rgba(52, 152, 219, 0.8)',
+                            borderWidth: 1
+                        },
+                        wheel: { enabled: false },
+                        pinch: { enabled: false },
+                        mode: 'xy'
+                    }
+                },
                 legend: {
                     position: 'bottom',
                     labels: {
@@ -93,7 +116,13 @@ fetch('assets/data/chart-data.json')
     });
 
     const btn = document.getElementById('toggleChampion');
+    const resetZoomBtn = document.getElementById('resetZoom');
     let champHidden = false;
+
+    resetZoomBtn.addEventListener('click', () => {
+        myChart.resetZoom();
+    });
+
     btn.addEventListener('click', () => {
         champHidden = !champHidden;
         myChart.data.datasets.forEach((ds, i) => {
