@@ -1,9 +1,9 @@
 {
   "subtitle-win": [
-    "Spain edges France as the narrowest of favorites in the 2026 World Cup winner market due to La Roja\u2019s Euro 2024 triumph, ongoing unbeaten run, and a star-studded squad featuring Lamine Yamal that has impressed analysts and bettors alike. France\u2019s deep roster and recent final appearances keep them within a percentage point, while England, Portugal, Argentina, and Brazil sit tightly bunched behind on the strength of strong qualifying campaigns, attacking firepower, and historical pedigree. The expanded 48-team format, host-nation dynamics for the co-hosts, and the unpredictable knockout structure contribute to the competitive spread among these sides, with trader consensus reflecting balanced form, squad health, and stylistic matchups across the field."
+    "Spain and France sit atop the 2026 World Cup winner market due to their top-three FIFA rankings, elite squad depth, and strong recent warm-up results, with Spain benefiting from young attacking talent like Lamine Yamal and France from Kylian Mbapp\u00e9\u2019s form. Portugal\u2019s Nations League success and Cristiano Ronaldo\u2019s presence, alongside England\u2019s depth under Thomas Tuchel and Argentina\u2019s defending-champion status with Lionel Messi, keep them within striking distance. Brazil\u2019s historical pedigree and solid ranking round out a tightly bunched European-South American cluster, while Germany and the Netherlands trail slightly amid deeper fields. The expanded 48-team format and comparable recent performances across these sides sustain narrow implied probabilities, reflecting trader consensus on parity among well-prepared contenders entering the group stage."
   ],
   "subtitle-final": [
-    "Spain and France head trader sentiment for reaching the 2026 World Cup final, driven by Spain\u2019s Euro 2024 triumph, deep squad featuring Lamine Yamal and Nico Williams, and favorable group path, alongside France\u2019s experience, Kylian Mbapp\u00e9\u2019s form, and proven knockout pedigree under Didier Deschamps. England, Portugal, Brazil, and Argentina follow closely, bolstered by star power and recent international results, though all face the challenges of an expanded 48-team format with 104 matches and a bracket designed to keep top seeds apart until late stages. Early group results, injury updates, and travel across North American venues will shape momentum, while veteran campaigns from players like Cristiano Ronaldo add narrative weight to contenders navigating the round of 32 and beyond."
+    "Spain and France lead implied probabilities to reach the 2026 World Cup final at MetLife Stadium on July 19, supported by robust squad depth, recent form, and favorable bracket positioning after the December draw placed top-ranked sides in separate semifinal pathways. Spain benefits from attacking talent including Lamine Yamal, while France relies on Kylian Mbapp\u00e9's experience alongside a balanced roster. England, Portugal, Brazil, and defending champions Argentina follow closely, with Portugal showing recent odds tightening. The expanded 48-team format and early group-stage results, including Mexico's opening win, highlight home-soil advantages for co-hosts, though their paths face stronger European and South American opposition. Veteran players such as Lionel Messi and Cristiano Ronaldo add narrative weight in what could be final appearances, with outcomes hinging on injury management, group progression, and knockout momentum."
   ],
   "labels": [
     "2026-05-30T16:58:49",
@@ -103,7 +103,8 @@
     "2026-06-11T16:47:42",
     "2026-06-11T19:30:30",
     "2026-06-11T21:56:04",
-    "2026-06-11T23:19:03"
+    "2026-06-11T23:19:03",
+    "2026-06-12T02:53:59"
   ],
   "datasets": [
     {
@@ -206,7 +207,8 @@
         14.42,
         14.53,
         14.58,
-        14.64
+        14.64,
+        14.81
       ],
       "champion": [
         12.64,
@@ -306,7 +308,8 @@
         12.09,
         12.12,
         12.2,
-        12.23
+        12.23,
+        12.16
       ]
     },
     {
@@ -409,7 +412,8 @@
         25.21,
         24.8,
         25.0,
-        25.15
+        25.15,
+        25.07
       ],
       "champion": [
         23.65,
@@ -509,7 +513,8 @@
         22.33,
         22.38,
         22.54,
-        22.6
+        22.6,
+        22.47
       ]
     },
     {
@@ -612,7 +617,8 @@
         11.62,
         11.66,
         11.45,
-        11.36
+        11.36,
+        11.3
       ],
       "champion": [
         8.78,
@@ -712,7 +718,8 @@
         9.32,
         9.23,
         9.18,
-        9.2
+        9.2,
+        9.15
       ]
     },
     {
@@ -815,7 +822,8 @@
         23.99,
         24.34,
         24.33,
-        23.82
+        23.82,
+        23.92
       ],
       "champion": [
         20.14,
@@ -915,7 +923,8 @@
         21.58,
         21.46,
         21.26,
-        20.97
+        20.97,
+        21.31
       ]
     },
     {
@@ -1018,7 +1027,8 @@
         17.53,
         17.76,
         17.85,
-        18.04
+        18.04,
+        18.06
       ],
       "champion": [
         13.81,
@@ -1118,7 +1128,8 @@
         14.39,
         14.77,
         14.52,
-        14.56
+        14.56,
+        14.71
       ]
     },
     {
@@ -1221,7 +1232,8 @@
         25.26,
         25.54,
         25.35,
-        25.44
+        25.44,
+        25.4
       ],
       "champion": [
         22.83,
@@ -1321,7 +1333,8 @@
         22.56,
         22.62,
         22.77,
-        22.83
+        22.83,
+        22.7
       ]
     },
     {
@@ -1424,7 +1437,8 @@
         0.73,
         0.77,
         0.77,
-        0.78
+        0.78,
+        0.79
       ],
       "champion": [
         0.35,
@@ -1508,6 +1522,7 @@
         0.35,
         0.35,
         0.34,
+        0.35,
         0.35,
         0.35,
         0.35,
@@ -1627,7 +1642,8 @@
         21.24,
         20.6,
         20.66,
-        20.77
+        20.77,
+        20.65
       ],
       "champion": [
         17.8,
@@ -1727,7 +1743,8 @@
         17.38,
         17.08,
         17.19,
-        17.24
+        17.24,
+        17.14
       ]
     }
   ]
