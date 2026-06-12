@@ -1,6 +1,6 @@
 {
   "subtitle-win": [
-    "Spain leads the World Cup winner market at 16.4% implied probability, narrowly ahead of France, as both sides enter the expanded 48-team tournament in strong recent form following Spain\u2019s Euro 2024 title and France\u2019s consistent major-tournament depth. Portugal, England, Brazil, and Argentina sit tightly grouped behind them because each boasts elite attacking talent, experienced squads, and favorable FIFA rankings in the top six. The competitive balance stems from multiple European contenders with comparable squad quality, attacking options, and historical knockout resilience, plus Argentina\u2019s title-defense pedigree. Minor pre-tournament friendlies and ranking tweaks have produced only small shifts, leaving the top tier bunched as the group stage begins."
+    "Spain and France sit atop the market at 16.4% and 16.1% implied probability as the 2026 FIFA World Cup opens, reflecting their top-three FIFA rankings and recent elite form. Spain\u2019s Euro 2024 triumph and emerging stars like Lamine Yamal underpin trader confidence in a balanced squad, while France\u2019s depth and Kylian Mbapp\u00e9\u2019s presence keep them nearly even. Portugal, England, Brazil, and defending champion Argentina follow closely behind at 7.8\u201310.8%, supported by strong recent FIFA standings and historical knockout pedigree. The bunched pricing stems from the expanded field\u2019s unpredictability, comparable squad quality across UEFA nations, and limited pre-tournament separation beyond minor odds shifts from public betting support."
   ],
   "subtitle-final": [
     "Spain and France stand as the clearest frontrunners to reach the 2026 World Cup final, driven by deep squads, strong recent form, and star power including Lamine Yamal anchoring Spain after Euro 2024 success and Kylian Mbapp\u00e9 leading France. England, Portugal, Brazil, and defending champions Argentina follow closely, with the latter seeking consecutive titles behind Lionel Messi in what could be his final tournament. The draw's bracket pathways position top European sides to avoid early clashes until the semifinals, while the expanded 48-team format increases the importance of group-stage results and rest advantages. Injuries, tactical matchups, and momentum from opening fixtures will quickly reshape implied probabilities as knockout contention clarifies."
@@ -109,7 +109,8 @@
     "2026-06-12T11:39:28",
     "2026-06-12T14:43:59",
     "2026-06-12T17:34:30",
-    "2026-06-12T20:01:59"
+    "2026-06-12T20:01:59",
+    "2026-06-12T20:21:38"
   ],
   "datasets": [
     {
@@ -218,7 +219,8 @@
         14.54,
         14.64,
         14.54,
-        14.64
+        14.64,
+        14.59
       ],
       "champion": [
         12.64,
@@ -324,7 +326,8 @@
         11.92,
         11.86,
         11.8,
-        11.96
+        11.96,
+        11.94
       ]
     },
     {
@@ -433,7 +436,8 @@
         25.34,
         25.44,
         25.42,
-        25.91
+        25.91,
+        25.92
       ],
       "champion": [
         23.65,
@@ -539,7 +543,8 @@
         22.91,
         23.02,
         22.91,
-        23.69
+        23.69,
+        23.65
       ]
     },
     {
@@ -648,7 +653,8 @@
         11.32,
         11.42,
         11.38,
-        11.58
+        11.58,
+        11.62
       ],
       "champion": [
         8.78,
@@ -754,7 +760,8 @@
         9.26,
         9.19,
         9.14,
-        9.48
+        9.48,
+        9.46
       ]
     },
     {
@@ -863,7 +870,8 @@
         23.99,
         24.02,
         24.68,
-        24.4
+        24.4,
+        24.53
       ],
       "champion": [
         20.14,
@@ -969,7 +977,8 @@
         21.29,
         21.28,
         22.1,
-        21.8
+        21.8,
+        21.99
       ]
     },
     {
@@ -1078,7 +1087,8 @@
         17.99,
         17.79,
         17.42,
-        17.15
+        17.15,
+        17.12
       ],
       "champion": [
         13.81,
@@ -1184,7 +1194,8 @@
         14.58,
         14.42,
         14.0,
-        13.74
+        13.74,
+        13.71
       ]
     },
     {
@@ -1293,7 +1304,8 @@
         25.64,
         25.84,
         25.68,
-        25.83
+        25.83,
+        25.8
       ],
       "champion": [
         22.83,
@@ -1399,7 +1411,8 @@
         22.68,
         22.79,
         22.68,
-        22.51
+        22.51,
+        22.46
       ]
     },
     {
@@ -1508,6 +1521,7 @@
         0.63,
         0.63,
         0.61,
+        0.62,
         0.62
       ],
       "champion": [
@@ -1614,7 +1628,8 @@
         0.35,
         0.35,
         0.35,
-        0.36
+        0.36,
+        0.35
       ]
     },
     {
@@ -1723,7 +1738,8 @@
         20.56,
         20.22,
         20.26,
-        19.86
+        19.86,
+        19.81
       ],
       "champion": [
         17.8,
@@ -1829,7 +1845,8 @@
         17.01,
         17.09,
         17.01,
-        16.47
+        16.47,
+        16.43
       ]
     }
   ]
