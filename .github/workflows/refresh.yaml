@@ -1,15 +1,25 @@
-name: Update Analysis
+name: Update Analysis and Deploy Pages
 
 on:
   schedule:
     - cron: '0 * * * *'  # every hour
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
-  run-analysis:
+  update-and-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - uses: actions/checkout@v4
@@ -19,7 +29,7 @@ jobs:
           python-version: '3.12'
           cache: pip
 
-      - run: pip install pandas requests
+      - run: pip install -r requirements.txt
 
       - run: python src/analysis.py
 
@@ -30,3 +40,12 @@ jobs:
           git add assets/data/
           git diff --cached --quiet || git commit -m "chore: update analysis data"
           git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - uses: actions/deploy-pages@v4
+        id: deployment
