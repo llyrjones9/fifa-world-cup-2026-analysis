@@ -1,9 +1,9 @@
 {
   "subtitle-win": [
-    "Spain and France sit atop the 2026 World Cup winner market as co-leaders because of their deep squads, recent continental success, and standout attacking talent including Lamine Yamal for Spain and Kylian Mbapp\u00e9 for France. Portugal, England, Brazil, and defending champions Argentina follow closely, each backed by proven depth, strong recent form in qualifiers or major tournaments, and favorable group-stage positioning. The tight spread among the top five reflects a balanced field where European depth and experience in knockout rounds offset South American flair, while early results like the United States\u2019 dominant opener have produced only marginal shifts without altering the overall hierarchy. Trader consensus prices in the inherent unpredictability of a 48-team expanded format and potential for upsets from well-organized sides."
+    "Spain and France lead the 2026 World Cup winner market as near co-favorites due to their elite squad depth, recent major-tournament pedigree, and attacking firepower anchored by players such as Lamine Yamal and Kylian Mbapp\u00e9. Spain\u2019s Euro 2024 title and consistent FIFA rankings underpin trader confidence, while France\u2019s history of deep runs and versatile roster keep the two sides within a percentage point. Portugal benefits from Cristiano Ronaldo\u2019s experience and a balanced midfield, sitting ahead of England, whose depth and club form support a strong implied probability. Brazil and Argentina remain competitive on pedigree and individual talent despite South American travel factors, creating a tightly bunched field where minor group-stage results, fitness updates, or stylistic matchups can shift momentum among the top six contenders."
   ],
   "subtitle-final": [
-    "Spain, France, and England lead expectations to reach the 2026 FIFA World Cup final, buoyed by strong recent international results, deep squads featuring standouts like Lamine Yamal, Kylian Mbapp\u00e9, and Jude Bellingham, and favorable group-stage positioning. Spain enters with Euro 2024 momentum despite managing Yamal\u2019s hamstring recovery, while France and England benefit from consistent depth and recent form. Argentina aims to defend its title with Lionel Messi in what could be his final appearance, though preparation concerns linger around key players. Brazil and Portugal round out the top contenders. The expanded 48-team field and home advantage for hosts like the United States add variables, but European sides have historically dominated knockout paths. Early group results and injury updates will quickly influence trader views on semifinal paths."
+    "Spain and France lead trader consensus for reaching the 2026 World Cup final, buoyed by Spain\u2019s Euro 2024 title and a young core featuring Lamine Yamal alongside France\u2019s experience with Kylian Mbapp\u00e9. Portugal, England, Brazil, and defending champion Argentina follow as the next tier, supported by strong recent form, depth in attack, and favorable early group-stage positioning in the expanded 48-team field. Key variables include star-player fitness and availability through the knockout rounds, bracket paths that could create quarterfinal or semifinal clashes among top European sides, and momentum shifts from group results now underway. Host-nation advantages for the United States, Mexico, and Canada remain secondary given their longer odds, while veteran campaigns from Lionel Messi and Cristiano Ronaldo add narrative weight but limited statistical edge in a deep field."
   ],
   "labels": [
     "2026-05-30T16:58:49",
@@ -116,7 +116,8 @@
     "2026-06-13T00:21:32",
     "2026-06-13T05:22:17",
     "2026-06-13T09:19:49",
-    "2026-06-13T11:55:22"
+    "2026-06-13T11:55:22",
+    "2026-06-13T14:03:40"
   ],
   "datasets": [
     {
@@ -232,7 +233,8 @@
         14.55,
         15.96,
         15.55,
-        15.62
+        15.62,
+        15.69
       ],
       "champion": [
         12.64,
@@ -345,7 +347,8 @@
         11.92,
         12.71,
         12.8,
-        12.8
+        12.8,
+        12.79
       ]
     },
     {
@@ -461,6 +464,7 @@
         25.67,
         25.31,
         25.17,
+        25.18,
         25.18
       ],
       "champion": [
@@ -574,7 +578,8 @@
         23.36,
         23.18,
         23.13,
-        23.01
+        23.01,
+        22.89
       ]
     },
     {
@@ -690,7 +695,8 @@
         11.65,
         11.32,
         11.41,
-        11.42
+        11.42,
+        11.35
       ],
       "champion": [
         8.78,
@@ -803,7 +809,8 @@
         9.56,
         9.41,
         9.39,
-        9.63
+        9.63,
+        9.51
       ]
     },
     {
@@ -919,7 +926,8 @@
         24.54,
         24.34,
         24.5,
-        24.55
+        24.55,
+        24.79
       ],
       "champion": [
         20.14,
@@ -1032,7 +1040,8 @@
         21.71,
         21.65,
         21.84,
-        21.84
+        21.84,
+        22.12
       ]
     },
     {
@@ -1148,7 +1157,8 @@
         17.08,
         16.95,
         16.99,
-        16.99
+        16.99,
+        17.04
       ],
       "champion": [
         13.81,
@@ -1261,7 +1271,8 @@
         13.81,
         13.76,
         13.74,
-        13.62
+        13.62,
+        13.61
       ]
     },
     {
@@ -1377,7 +1388,8 @@
         26.14,
         25.95,
         26.05,
-        25.98
+        25.98,
+        25.69
       ],
       "champion": [
         22.83,
@@ -1490,7 +1502,8 @@
         22.89,
         22.71,
         22.54,
-        22.54
+        22.54,
+        22.53
       ]
     },
     {
@@ -1606,7 +1619,8 @@
         0.61,
         0.6,
         0.6,
-        0.71
+        0.71,
+        0.64
       ],
       "champion": [
         0.35,
@@ -1713,6 +1727,7 @@
         0.35,
         0.35,
         0.36,
+        0.35,
         0.35,
         0.35,
         0.35,
@@ -1835,7 +1850,8 @@
         19.74,
         19.57,
         19.73,
-        19.55
+        19.55,
+        19.63
       ],
       "champion": [
         17.8,
@@ -1947,6 +1963,7 @@
         16.39,
         16.4,
         16.24,
+        16.2,
         16.2,
         16.2
       ]
