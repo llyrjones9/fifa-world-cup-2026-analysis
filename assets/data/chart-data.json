@@ -1,9 +1,9 @@
 {
   "subtitle-win": [
-    "France leads the 2026 World Cup winner market at 17.5% implied probability, narrowly ahead of Spain at 14.6%, after Spain's scoreless group-stage draw with Cape Verde tightened the race among top contenders. England, Portugal, and defending champions Argentina sit just behind, reflecting deep European squads featuring players like Mbapp\u00e9, Bellingham, and Yamal alongside South American depth. Early group results, including Ivory Coast's upset win and several draws, have kept probabilities clustered as no favorite has pulled away decisively. Key injury absences, such as Timber for the Netherlands and Rodrygo for Brazil, add uncertainty, while strong recent form from multiple nations and the expanded 48-team format sustain competitive balance through the group stage."
+    "**Multiple European powers and defending champions Argentina enter the 2026 FIFA World Cup with comparable title credentials, keeping implied probabilities tightly clustered among the top contenders.** Spain\u2019s Euro 2024 triumph and continued momentum behind talents like Lamine Yamal anchor their position, while France\u2019s recent final appearances, squad depth, and Kylian Mbapp\u00e9 leadership sustain their narrow lead in trader pricing. Argentina\u2019s back-to-back pursuit, bolstered by Lionel Messi experience and strong CONMEBOL qualifying results, Portugal\u2019s blend of veteran leadership and emerging depth, and England\u2019s broad talent pool under recent coaching continuity further compress the field. Brazil and Germany show uneven recent form but retain historical pedigree and roster quality that prevents any single side from pulling away decisively. This balance of recent silverware, generational stars, and squad resilience across several nations explains the bunched market consensus entering the expanded 48-team tournament."
   ],
   "subtitle-final": [
-    "**France and Spain lead the trader consensus for reaching the 2026 World Cup final, each implied around 28-29% probability amid the expanded 48-team field and group stage underway.** \n\nFrance has edged ahead in outright winner odds to roughly +410-+430 after strong pre-tournament positioning and Kylian Mbapp\u00e9's presence, while Spain sits near +500 following a mixed opening result against Cape Verde despite their Euro 2024 pedigree and Lamine Yamal's form. England, Portugal, Brazil, and Argentina form the next tier, with their implied final probabilities shaped by squad depth, recent international results, and favorable group paths that limit early clashes among elites. Early group outcomes, including upsets like Ivory Coast over Ecuador, have produced minor shifts but reinforced that knockout-stage bracket positioning, rest advantages, and injury management will drive later probability moves as the field narrows to two teams by July 19."
+    "France and Spain lead trader consensus for reaching the 2026 FIFA World Cup final, reflecting their depth, recent European success, and star power including Kylian Mbapp\u00e9 and Lamine Yamal. Early group-stage results have shaped sentiment, with Spain held to a draw by Cape Verde while France prepares for Senegal. Other contenders like England, Portugal, Brazil, and defending champions Argentina remain in contention but trail in implied probabilities amid strong European form and favorable draws. Key upcoming factors include injury recoveries, rest advantages in the expanded 48-team format, and knockout bracket positioning once the round of 32 begins later this month. Group outcomes and momentum shifts continue to influence market movement."
   ],
   "labels": [
     "2026-05-30T16:58:49",
@@ -137,7 +137,8 @@
     "2026-06-15T18:28:59",
     "2026-06-15T21:44:53",
     "2026-06-15T23:47:15",
-    "2026-06-16T04:24:30"
+    "2026-06-16T04:24:30",
+    "2026-06-16T10:10:27"
   ],
   "datasets": [
     {
@@ -274,7 +275,8 @@
         13.95,
         14.22,
         13.86,
-        13.67
+        13.67,
+        13.5
       ],
       "champion": [
         12.64,
@@ -408,6 +410,7 @@
         11.28,
         11.41,
         11.38,
+        11.36,
         11.36
       ]
     },
@@ -545,7 +548,8 @@
         26.33,
         26.9,
         27.43,
-        27.19
+        27.19,
+        27.45
       ],
       "champion": [
         23.65,
@@ -679,7 +683,8 @@
         23.87,
         24.36,
         24.9,
-        24.62
+        24.62,
+        24.73
       ]
     },
     {
@@ -816,7 +821,8 @@
         11.81,
         11.87,
         11.84,
-        11.82
+        11.82,
+        11.89
       ],
       "champion": [
         8.78,
@@ -950,6 +956,7 @@
         10.03,
         10.1,
         10.08,
+        10.06,
         10.06
       ]
     },
@@ -1087,7 +1094,8 @@
         25.37,
         25.32,
         24.9,
-        25.26
+        25.26,
+        24.47
       ],
       "champion": [
         20.14,
@@ -1221,7 +1229,8 @@
         22.44,
         22.46,
         21.7,
-        22.13
+        22.13,
+        21.66
       ]
     },
     {
@@ -1358,7 +1367,8 @@
         15.88,
         16.35,
         16.48,
-        16.3
+        16.3,
+        17.38
       ],
       "champion": [
         13.81,
@@ -1492,7 +1502,8 @@
         12.83,
         13.19,
         13.28,
-        13.25
+        13.25,
+        14.2
       ]
     },
     {
@@ -1629,7 +1640,8 @@
         23.88,
         23.06,
         23.21,
-        23.1
+        23.1,
+        22.59
       ],
       "champion": [
         22.83,
@@ -1763,7 +1775,8 @@
         20.9,
         19.96,
         20.16,
-        20.12
+        20.12,
+        19.53
       ]
     },
     {
@@ -1900,7 +1913,8 @@
         0.66,
         0.67,
         0.66,
-        0.66
+        0.66,
+        0.7
       ],
       "champion": [
         0.35,
@@ -2027,6 +2041,7 @@
         0.35,
         0.35,
         0.35,
+        0.36,
         0.36,
         0.36,
         0.36,
@@ -2171,7 +2186,8 @@
         22.11,
         21.63,
         21.62,
-        21.99
+        21.99,
+        22.03
       ],
       "champion": [
         17.8,
@@ -2305,6 +2321,7 @@
         18.29,
         18.18,
         18.14,
+        18.11,
         18.11
       ]
     }
