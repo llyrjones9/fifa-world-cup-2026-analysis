@@ -1,9 +1,9 @@
 {
   "subtitle-win": [
-    "France leads the World Cup winner market following strong opening results, including a convincing group-stage victory over Senegal, while Argentina has impressed with attacking displays featuring Lionel Messi. Spain\u2019s unexpected draw against Cape Verde has slightly tempered its position despite prior strong form. England and Portugal remain close behind as they prepare for early matches, with squad depth and recent Nations League or qualifying results supporting their implied probabilities. The bunched odds among the top five reflect a wide-open group stage in an expanded 48-team field, where early results, fitness updates, and favorable draws continue to shape trader views on progression paths and knockout potential."
+    "France leads the 2026 World Cup winner market on the back of dominant group-stage results anchored by Kylian Mbapp\u00e9\u2019s scoring surge, while Spain, Argentina, and England remain tightly bunched behind them after mixed opening outcomes and strong showings from Lionel Messi and Jude Bellingham. The expanded 48-team format and deep European and South American squads create narrow implied probabilities, with recent form, squad fitness, and early momentum shifts driving trader adjustments. Host-nation advantages and knockout-stage paths add further uncertainty, keeping multiple contenders within striking distance as the tournament progresses."
   ],
   "subtitle-final": [
-    "France and Spain currently lead trader consensus for reaching the 2026 World Cup final, reflecting their strong squad depth, recent form, and favorable early group-stage results. France strengthened its position with a convincing opening win featuring Kylian Mbapp\u00e9\u2019s contributions, while Spain remains highly regarded despite a draw against Cape Verde. England, Portugal, Brazil, and Argentina follow closely, supported by star attackers like Jude Bellingham, Cristiano Ronaldo, and Lionel Messi plus solid historical knockout pedigree. As the expanded 48-team tournament moves through groups, factors such as rest, travel across North American venues, and bracket positioning will increasingly influence advancement probabilities into the semifinals and beyond."
+    "France enters the 2026 FIFA World Cup as the clear frontrunner to reach the final at MetLife Stadium, buoyed by a dominant opening victory and a deep squad featuring Kylian Mbapp\u00e9 alongside Champions League-proven talent. Spain\u2019s early draw against Cape Verde has tempered expectations for La Roja despite their Euro 2024 pedigree and emerging stars like Lamine Yamal, while Argentina\u2019s emphatic group-stage results with Lionel Messi have kept the defending champions firmly in contention for back-to-back final appearances. England and Portugal face critical early tests that could shape their knockout paths, with bracket positioning, rest advantages, and squad rotation during the expanded 48-team group stage likely to influence which European or South American sides advance through the round of 32 and beyond."
   ],
   "labels": [
     "2026-05-30T16:58:49",
@@ -146,7 +146,8 @@
     "2026-06-17T06:14:44",
     "2026-06-17T11:50:23",
     "2026-06-17T15:37:25",
-    "2026-06-17T18:21:22"
+    "2026-06-17T18:21:22",
+    "2026-06-17T21:09:37"
   ],
   "datasets": [
     {
@@ -292,7 +293,8 @@
         14.04,
         14.07,
         14.14,
-        14.04
+        14.04,
+        14.28
       ],
       "champion": [
         12.64,
@@ -435,7 +437,8 @@
         11.64,
         11.61,
         11.59,
-        11.57
+        11.57,
+        11.82
       ]
     },
     {
@@ -581,7 +584,8 @@
         28.08,
         28.2,
         28.56,
-        28.65
+        28.65,
+        28.84
       ],
       "champion": [
         23.65,
@@ -724,7 +728,8 @@
         25.27,
         25.22,
         25.17,
-        25.12
+        25.12,
+        25.66
       ]
     },
     {
@@ -870,7 +875,8 @@
         10.99,
         11.04,
         10.64,
-        10.56
+        10.56,
+        11.04
       ],
       "champion": [
         8.78,
@@ -1013,7 +1019,8 @@
         8.93,
         8.91,
         8.9,
-        9.0
+        9.0,
+        9.31
       ]
     },
     {
@@ -1159,7 +1166,8 @@
         23.8,
         23.45,
         23.87,
-        25.03
+        25.03,
+        22.48
       ],
       "champion": [
         20.14,
@@ -1302,7 +1310,8 @@
         20.8,
         21.0,
         20.96,
-        21.73
+        21.73,
+        18.8
       ]
     },
     {
@@ -1448,7 +1457,8 @@
         19.4,
         19.79,
         19.46,
-        18.83
+        18.83,
+        19.56
       ],
       "champion": [
         13.81,
@@ -1591,7 +1601,8 @@
         16.81,
         16.89,
         16.98,
-        16.24
+        16.24,
+        17.07
       ]
     },
     {
@@ -1737,7 +1748,8 @@
         21.42,
         21.25,
         21.26,
-        21.1
+        21.1,
+        21.58
       ],
       "champion": [
         22.83,
@@ -1880,7 +1892,8 @@
         18.33,
         18.18,
         18.26,
-        18.23
+        18.23,
+        18.98
       ]
     },
     {
@@ -2026,7 +2039,8 @@
         0.64,
         0.65,
         0.69,
-        0.67
+        0.67,
+        0.64
       ],
       "champion": [
         0.35,
@@ -2169,7 +2183,8 @@
         0.35,
         0.35,
         0.35,
-        0.35
+        0.35,
+        0.36
       ]
     },
     {
@@ -2315,7 +2330,8 @@
         21.63,
         21.54,
         21.38,
-        21.14
+        21.14,
+        21.57
       ],
       "champion": [
         17.8,
@@ -2458,7 +2474,8 @@
         17.86,
         17.83,
         17.8,
-        17.76
+        17.76,
+        18.02
       ]
     }
   ]
