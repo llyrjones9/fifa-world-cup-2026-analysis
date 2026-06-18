@@ -1,9 +1,9 @@
 {
   "subtitle-win": [
-    "France leads the 2026 World Cup winner market after a convincing 3-1 group-stage victory over Senegal, powered by multiple goals from Kylian Mbapp\u00e9, which has reinforced trader confidence in Les Bleus' squad depth and attacking form. Spain slipped following a surprise 0-0 draw with Cape Verde, while Argentina strengthened its position with Lionel Messi's hat trick in a 3-0 win over Algeria. England and Portugal remain tightly bunched behind as they prepare for their openers, with the expanded 48-team field and early-stage results creating competitive dynamics among a deep pool of European and South American contenders still vying for knockout advancement."
+    "France leads the 2026 FIFA World Cup winner market at 18.4% implied probability after opening with a 3-1 victory over Senegal featuring multiple goals from Kylian Mbapp\u00e9, while Spain sits at 13.8% following a surprising 0-0 draw against Cape Verde that tempered expectations from its Euro 2024-winning squad. England (12.8%) and defending champion Argentina (11.6%) remain tightly clustered behind them after strong early results, including England\u2019s 4-2 win over Croatia and Argentina\u2019s emphatic performances. The bunched pricing among the top five reflects the expanded 48-team format, comparable squad depth and star power across elite European sides, and limited separation in group-stage results so far. Portugal, Brazil, and Germany trail but stay within striking distance as traders weigh recent form, injuries, and knockout-stage matchups that remain weeks away."
   ],
   "subtitle-final": [
-    "France leads trader consensus for reaching the 2026 World Cup final, bolstered by Kylian Mbapp\u00e9\u2019s multiple goals in a 3-1 group-stage win over Senegal that tightened their outright title odds to around +400. Spain slipped after a surprising 0-0 draw with Cape Verde, while Argentina gained ground following Lionel Messi\u2019s hat trick and strong early results. England and Portugal remain prominent contenders entering their opening matches, with the expanded 48-team format and round-of-32 stage increasing the value of group-stage momentum, rest advantages, and favorable knockout paths. Key upcoming variables include star availability, tactical adjustments across the remaining group fixtures through late June, and how European sides navigate the co-hosted venues in North America."
+    "France sits atop 2026 World Cup winner odds near +400 following convincing group-stage victories anchored by Kylian Mbapp\u00e9\u2019s multiple-goal contributions, while Spain holds second at roughly +500 despite a surprising draw against Cape Verde. England, Portugal, Argentina, and Brazil round out the leading contenders at +700 to +1000, reflecting trader consensus on squad depth, recent form, and star availability such as Lionel Messi\u2019s hat trick and Jude Bellingham\u2019s influence. Early results have tightened probabilities for European sides with favorable group matchups, while CONMEBOL teams benefit from proven knockout pedigree. Upcoming group fixtures, rest advantages, and potential bracket positioning will shape paths to the final as the expanded 48-team field advances."
   ],
   "labels": [
     "2026-05-30T16:58:49",
@@ -148,7 +148,8 @@
     "2026-06-17T15:37:25",
     "2026-06-17T18:21:22",
     "2026-06-17T21:09:37",
-    "2026-06-17T23:26:47"
+    "2026-06-17T23:26:47",
+    "2026-06-18T04:11:11"
   ],
   "datasets": [
     {
@@ -296,7 +297,8 @@
         14.14,
         14.04,
         14.28,
-        14.2
+        14.2,
+        14.07
       ],
       "champion": [
         12.64,
@@ -441,7 +443,8 @@
         11.59,
         11.57,
         11.82,
-        11.61
+        11.61,
+        11.56
       ]
     },
     {
@@ -589,7 +592,8 @@
         28.56,
         28.65,
         28.84,
-        28.14
+        28.14,
+        27.97
       ],
       "champion": [
         23.65,
@@ -734,7 +738,8 @@
         25.17,
         25.12,
         25.66,
-        25.22
+        25.22,
+        25.1
       ]
     },
     {
@@ -882,7 +887,8 @@
         10.64,
         10.56,
         11.04,
-        10.75
+        10.75,
+        10.78
       ],
       "champion": [
         8.78,
@@ -1027,7 +1033,8 @@
         8.9,
         9.0,
         9.31,
-        8.91
+        8.91,
+        8.87
       ]
     },
     {
@@ -1175,7 +1182,8 @@
         23.87,
         25.03,
         22.48,
-        21.16
+        21.16,
+        21.0
       ],
       "champion": [
         20.14,
@@ -1320,7 +1328,8 @@
         20.96,
         21.73,
         18.8,
-        17.48
+        17.48,
+        17.86
       ]
     },
     {
@@ -1468,7 +1477,8 @@
         19.46,
         18.83,
         19.56,
-        19.65
+        19.65,
+        19.56
       ],
       "champion": [
         13.81,
@@ -1613,7 +1623,8 @@
         16.98,
         16.24,
         17.07,
-        17.01
+        17.01,
+        16.93
       ]
     },
     {
@@ -1761,7 +1772,8 @@
         21.26,
         21.1,
         21.58,
-        21.53
+        21.53,
+        21.73
       ],
       "champion": [
         22.83,
@@ -1906,7 +1918,8 @@
         18.26,
         18.23,
         18.98,
-        18.77
+        18.77,
+        18.79
       ]
     },
     {
@@ -2054,6 +2067,7 @@
         0.69,
         0.67,
         0.64,
+        0.64,
         0.64
       ],
       "champion": [
@@ -2199,6 +2213,7 @@
         0.35,
         0.35,
         0.36,
+        0.35,
         0.35
       ]
     },
@@ -2347,7 +2362,8 @@
         21.38,
         21.14,
         21.57,
-        23.92
+        23.92,
+        24.25
       ],
       "champion": [
         17.8,
@@ -2492,7 +2508,8 @@
         17.8,
         17.76,
         18.02,
-        20.65
+        20.65,
+        20.54
       ]
     }
   ]
