@@ -26,7 +26,7 @@ fetch('assets/data/chart-data.json')
             borderWidth: 1,
             pointRadius: 0,
             pointHoverRadius: 2,
-            pointHitRadius: 6,
+            pointHitRadius: 40,
             tension: 0.3,
             fill: false,
         };
