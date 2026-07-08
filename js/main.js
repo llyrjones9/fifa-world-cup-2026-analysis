@@ -23,9 +23,10 @@ fetch('assets/data/chart-data.json')
             championData: ds.champion,
             borderColor: color,
             backgroundColor: color + '22',
-            borderWidth: 2.5,
-            pointRadius: 1,
-            pointHoverRadius: 4,
+            borderWidth: 1,
+            pointRadius: 0,
+            pointHoverRadius: 2,
+            pointHitRadius: 6,
             tension: 0.3,
             fill: false,
         };
