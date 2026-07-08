@@ -19,6 +19,23 @@
             <button id="toggleSeries">View Total Stake Value</button>
             <button id="resetZoom" type="button">Reset Zoom</button>
         </div>
+        <div class="date-range-control">
+            <div class="date-range-header">
+                <label for="dateStartRange">Date range</label>
+                <div class="date-range-values">
+                    <span id="dateRangeStartLabel"></span>
+                    <span>to</span>
+                    <span id="dateRangeEndLabel"></span>
+                </div>
+            </div>
+            <div class="dual-range">
+                <input id="dateStartRange" type="range" min="0" max="0" step="1" value="0">
+                <input id="dateEndRange" type="range" min="0" max="0" step="1" value="0">
+                <div class="dual-range-track">
+                    <div id="dualRangeFill" class="dual-range-fill"></div>
+                </div>
+            </div>
+        </div>
         <div class="chart-container">
             <canvas id="sweepChart"></canvas>
         </div>

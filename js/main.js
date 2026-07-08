@@ -33,6 +33,55 @@ fetch('assets/data/chart-data.json')
     });
 
     let currentSeries = 'champion';
+    const chartLabels = data.labels.map(label => new Date(label));
+    const maxRangeIndex = Math.max(chartLabels.length - 1, 0);
+    const startRangeInput = document.getElementById('dateStartRange');
+    const endRangeInput = document.getElementById('dateEndRange');
+    const dualRangeFill = document.getElementById('dualRangeFill');
+    const startRangeLabel = document.getElementById('dateRangeStartLabel');
+    const endRangeLabel = document.getElementById('dateRangeEndLabel');
+
+    startRangeInput.min = '0';
+    startRangeInput.max = String(maxRangeIndex);
+    endRangeInput.min = '0';
+    endRangeInput.max = String(maxRangeIndex);
+
+    const formatRangeDate = value => new Date(value).toLocaleDateString('en-GB', {
+        day: '2-digit',
+        month: 'short',
+        year: 'numeric'
+    });
+
+    const clamp = (value, min, max) => Math.min(Math.max(value, min), max);
+
+    const updateDateRangeUI = (startIndex, endIndex) => {
+        const safeStart = clamp(startIndex, 0, chartLabels.length - 1);
+        const safeEnd = clamp(endIndex, 0, chartLabels.length - 1);
+        const startValue = Math.min(safeStart, safeEnd);
+        const endValue = Math.max(safeStart, safeEnd);
+
+        startRangeInput.value = startValue;
+        endRangeInput.value = endValue;
+
+        const total = Math.max(chartLabels.length - 1, 1);
+        const startPercent = (startValue / total) * 100;
+        const endPercent = (endValue / total) * 100;
+        dualRangeFill.style.left = `${startPercent}%`;
+        dualRangeFill.style.width = `${Math.max(0, endPercent - startPercent)}%`;
+
+        startRangeLabel.textContent = formatRangeDate(chartLabels[startValue]);
+        endRangeLabel.textContent = formatRangeDate(chartLabels[endValue]);
+    };
+
+    const applyDateRange = () => {
+        const startValue = parseInt(startRangeInput.value, 10);
+        const endValue = parseInt(endRangeInput.value, 10);
+        updateDateRangeUI(startValue, endValue);
+
+        myChart.options.scales.x.min = chartLabels[parseInt(startRangeInput.value, 10)];
+        myChart.options.scales.x.max = chartLabels[parseInt(endRangeInput.value, 10)];
+        myChart.update('none');
+    };
 
     const myChart = new Chart(document.getElementById('sweepChart'), {
         type: 'line',
@@ -100,8 +149,15 @@ fetch('assets/data/chart-data.json')
     const btn = document.getElementById('toggleSeries');
     const resetZoomBtn = document.getElementById('resetZoom');
 
+    startRangeInput.addEventListener('input', applyDateRange);
+    endRangeInput.addEventListener('input', applyDateRange);
+
     resetZoomBtn.addEventListener('click', () => {
         myChart.resetZoom();
+        updateDateRangeUI(0, chartLabels.length - 1);
+        myChart.options.scales.x.min = chartLabels[0];
+        myChart.options.scales.x.max = chartLabels[chartLabels.length - 1];
+        myChart.update('none');
     });
 
     btn.addEventListener('click', () => {
@@ -113,4 +169,7 @@ fetch('assets/data/chart-data.json')
         btn.textContent = currentSeries === 'champion' ? 'View Total Stake Value' : 'View Champion Stake Value';
         myChart.update();
     });
+
+    updateDateRangeUI(0, maxRangeIndex);
+    applyDateRange();
     }).catch(err => console.error('Error loading data:', err));

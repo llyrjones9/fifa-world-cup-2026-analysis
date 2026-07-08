@@ -66,6 +66,97 @@ h2 {
     background: #c9a84c;
 }
 
+.date-range-control {
+    margin: 16px 0 8px;
+    padding: 14px 16px;
+    border: 1px solid #e4e4e4;
+    border-radius: 10px;
+    background: #f8f8f8;
+}
+
+.date-range-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 10px;
+    color: #4f4f4f;
+    font-size: 0.9em;
+}
+
+.date-range-values {
+    display: flex;
+    gap: 8px;
+    color: #1a4a2e;
+    font-weight: 600;
+}
+
+.dual-range {
+    position: relative;
+    height: 34px;
+}
+
+.dual-range input[type="range"] {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    appearance: none;
+    background: none;
+    pointer-events: none;
+}
+
+.dual-range input[type="range"]::-webkit-slider-thumb {
+    appearance: none;
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    background: #1a4a2e;
+    border: 2px solid #fff;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+    pointer-events: auto;
+}
+
+.dual-range input[type="range"]::-moz-range-thumb {
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    background: #1a4a2e;
+    border: 2px solid #fff;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+    pointer-events: auto;
+}
+
+.dual-range input[type="range"]::-webkit-slider-runnable-track {
+    height: 6px;
+    background: transparent;
+}
+
+.dual-range input[type="range"]::-moz-range-track {
+    height: 6px;
+    background: transparent;
+}
+
+.dual-range-track {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 6px;
+    border-radius: 999px;
+    background: #dfe7e2;
+}
+
+.dual-range-fill {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    border-radius: 999px;
+    background: #c9a84c;
+}
+
 .chart-container {
     margin-top: 24px;
     position: relative;
