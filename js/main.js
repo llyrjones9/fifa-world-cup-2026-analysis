@@ -147,18 +147,9 @@ fetch('assets/data/chart-data.json')
     });
 
     const btn = document.getElementById('toggleSeries');
-    const resetZoomBtn = document.getElementById('resetZoom');
 
     startRangeInput.addEventListener('input', applyDateRange);
     endRangeInput.addEventListener('input', applyDateRange);
-
-    resetZoomBtn.addEventListener('click', () => {
-        myChart.resetZoom();
-        updateDateRangeUI(0, chartLabels.length - 1);
-        myChart.options.scales.x.min = chartLabels[0];
-        myChart.options.scales.x.max = chartLabels[chartLabels.length - 1];
-        myChart.update('none');
-    });
 
     btn.addEventListener('click', () => {
         currentSeries = currentSeries === 'champion' ? 'total' : 'champion';
