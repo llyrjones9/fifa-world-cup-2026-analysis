@@ -103,6 +103,7 @@ h2 {
     appearance: none;
     background: none;
     pointer-events: none;
+    z-index: 1;
 }
 
 .dual-range input[type="range"]::-webkit-slider-thumb {
